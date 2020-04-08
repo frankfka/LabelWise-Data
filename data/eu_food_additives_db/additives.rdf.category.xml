@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.8">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other alcoholic drinks including mixtures of alcoholic drinks with non-alcoholic drinks and spirits with less than 15 % of alcohol and</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.8</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.8</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.6">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Sauces</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.6</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.6</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-10.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed eggs and egg products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">10.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">10.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Table Top Sweeteners</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Foods intended for particular nutritional uses as defined by Directive 2009/39/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food supplements supplied in a solid form including capsules and tablets and similar forms, excluding chewable forms</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unripened cheese excluding products falling in category 16</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Jam, jellies and marmalades and sweetened chestnut puree as defined by Directive 2001/113/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dehydrated milk as defined by Directive 2001/114/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Frozen fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Table Top Sweeteners in liquid form</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fat and oil emulsions mainly of type water-in-oil</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Follow-on formulae as defined by Directive 2006/141/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Beer and malt beverages</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Meat</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-0">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">All categories of foods</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">0</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">0</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Foods suitable for people intolerant to gluten as defined by Regulation (EC) No 41/2009</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dry pasta</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.2.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Starches</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.2.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.2.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-15.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed nuts</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.6">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed potato products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.6</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.6</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fish roe</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Honey as defined in Directive 2001/110/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Alcoholic beverages, including alcohol-free and low-alcohol counterparts</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Table Top Sweeteners in powder form</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Traditionally cured meat products with specific provisions concerning nitrites and nitrates</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food supplements supplied in a liquid form</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other similar fruit or vegetable spreads</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Cream and cream powder</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.7">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Salads and savoury based sandwich spreads</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.7</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.7</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Vegetable oil pan spray</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Whole, broken, or flaked grain</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Aromatised wines</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dairy products and analogues</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dietary foods for weight control diets intended to replace total daily food intake or an individual meal (the whole or part of the total daily diet)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fish and fisheries products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Salts, spices, soups, sauces, salads and protein products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fresh pre-cooked pasta</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-15.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Potato-, cereal-, flour- or starch-based snacks</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed cereal-based foods and baby foods for infants and young children as defined by Directive 2006/125/EC </additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fruit and vegetable preparations, excluding products covered by 5.4</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Non-alcoholic beverages</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.6">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Batters</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.6</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.6</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.6">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Spirit drinks as defined in Regulation (EC) No 110/2008</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.6</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.6</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other sugars and syrups</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.8">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Yeast and yeast products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.8</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.8</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Cheese and cheese products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-21">
+    <additives:description xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">AUTHORISED ADDITIVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE&lt;br /&gt;See Regulation (EU) No 1130/2011</additives:description>
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food flavourings</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">21</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">21</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Edible cheese rind</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-18">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed foods not covered by categories 1 to 17, excluding foods for infants and young children</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">18</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">18</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Coffee, tea, herbal and fruit infusions, chicory; tea, herbal and fruit infusions and chicory extracts; tea, plant, fruit and cereal preparations for infusions, as well as mixes and instant mixes of these products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unprocessed fish and fisheries products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other foods for young children</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.5.2">
+    <additives:description xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives of categories 13.1.2 and 13.1.3 are applicable, except for E 270, E 333, E 341</additives:description>
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dietary foods for babies and young children for special medical purposes as defined in Directive 1999/21/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.5.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.5.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unflavoured pasteurised cream (excluding reduced fat creams)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Sugars, syrups, honey and table-top sweeteners</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Cereals and cereal products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fresh pasta</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-10.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unprocessed eggs</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">10.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">10.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unprocessed fish</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.7">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Pre-cooked or processed cereals</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.7</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.7</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Sugars and syrups as defined by Directive 2001/111/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Jam, jellies and marmalades and similar products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Aromatised wine-based products as defined by Regulation (EEC) No 1601/91</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-20">
+    <additives:description xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">AUTHORISED ADDITVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE&lt;br /&gt;See Regulation (EU) No 1130/2011</additives:description>
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food enzymes</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">20</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">20</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.9">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Protein products, excluding products covered in category 1.8</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.9</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.9</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.8">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dairy analogues, including beverage whiteners</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.8</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.8</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-08.2.4.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other traditionally cured products. (Immersion and dry cured processes used in combination or where nitrite and/or nitrate is included in a compound product or where the curing solution is injected into the product prior to cooking)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">08.2.4.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">08.2.4.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Extra jam and extra jelly as defined by Directive 2001/113/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Ripened cheese</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-22.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food additives added in nutrients intended to be used in foodstuffs for infants and young children listed in point 13.1 of Part E of Annex II</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-19">
+    <additives:description xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">AUTHORISED ADDITIVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE&lt;br /&gt;See Regulation (EU) No 1130/2011</additives:description>
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food additives</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">19</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">19</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Salt and salt substitutes</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dietary foods for infants and young children for special medical purposes as defined by Directive 1999/21/EC and special formulae for infants</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unflavoured live fermented cream products and substitute products with a fat content of less than 20%</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed fish and fishery products including mollusks and crustaceans</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.5.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dietary foods for infants for special medical purposes and special formulae for infants</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.5.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.5.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-10">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Eggs and egg products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">10</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">10</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unprocessed molluscs and crustaceans</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9.1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Bakery wares</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other creams</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.6.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unflavoured pasteurised and sterilised (including UHT) milk</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Pasta</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fruit and vegetables in vinegar, oil, or brine</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Decorations, coatings and fillings, except fruit based fillings covered by category 4.2.4</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.2.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Herbs and spices</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.2.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.2.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fruit nectars as defined by Directive 2001/112/EC and vegetable nectars and similar products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-16">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Desserts excluding products covered in category 1, 3 and 4</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">16</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">16</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Heat treated processed meat</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed cheese</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Herbs, spices, seasonings</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Mead</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unprocessed meat</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-22">
+    <additives:description xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">AUTHORISED ADDITIVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE&lt;br /&gt;See Regulation (EU) No 1130/2011</additives:description>
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Nutrients</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Canned or bottled fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unflavoured fermented milk products, including natural unflavoured buttermilk (excluding sterilised buttermilk) non heat treated after fermentation</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Noodles</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Pain courant francais; Friss b�zakeny�r, feh�r �s f�lbarna kenyerek</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Confectionery</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Chewing gum</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.5.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.5.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.5.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Flavoured drinks</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Vinegars</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Casings and coatings and decorations for meat</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fruit wine and made wine</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food supplements as defined in Directive 2002/46/EC excluding food supplements for infants and young children</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Whey cheese</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.2.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Butter and concentrated butter and butter oil and anhydrous milkfat</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.2.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.2.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Salt</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Processed meat</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food supplements supplied in a syrup-type or chewable form</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.4.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fruit and vegetable preparations excluding compote</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.4.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.4.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Bread prepared solely with the following ingredients: wheat flour, water, yeast or leaven,salt</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Flours and starches</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dietary foods for special medical purposes defined in Directive 1999/21/EC (excluding products from food category 13.1.5)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Table Top Sweeteners in tablets</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11.4.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fine bakery wares</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unflavoured fermented milk products, heat-treated after fermentation</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Nut butters and nut spreads</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.5.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.5.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Coffee, coffee extracts</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.5.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.5.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fats and oils and fat and oil emulsions</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.4.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Compote, excluding products covered by category 16</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.4.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">04.2.4.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other confectionery including breath refreshening microsweets</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Entire fresh fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Potato gnocchi</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Aromatised wine-based drinks</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unprocessed meat other than meat preparations as defined by Regulation (EC) No 853/2004</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Cider and perry</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Water, including natural mineral water as defined in Directive 2009/54/EC and spring water and all other bottled or packed waters</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Beverages</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-08.2.4.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Traditional immersion cured products (Meat products cured by immersion in a curing solution containing nitrites and/or nitrates, salt and other components)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">08.2.4.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">08.2.4.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Mustard</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Non heat treated processed meat</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.2.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-22.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Food additives in nutrients except nutrients intended to be used in foodstuffs for infants and young children listed in point 13.1 of Part E of Annex II</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Salt substitutes</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.2.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Other fat and oil emulsions including spreads as defined by Council Regulation (EC) No 1234/2007 and liquid emulsions</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.2.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.2.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Breakfast cereals</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Dried fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.2.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.4">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Flavoured fermented milk products including heat treated products</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.4</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.4</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Foods for infants and young children</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Bread and rolls</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Edible ices</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fruit juices as defined by Directive 2001/112/EC and vegetable juices</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fillings of stuffed pasta (ravioli and similar)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.4.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Cocoa and Chocolate products as covered by Directive 2000/36/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Peeled, cut and shredded fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unprocessed fruit and vegetables</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.2.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Seasonings and condiments</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.2.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.2.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.2.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Flours and other milled products and starches</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.2.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6.2.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.6">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Cheese products (excluding products falling in category 16)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.6</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1.7.6</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7.3">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Aromatised wine-product cocktails</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7.3</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.7.3</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-08.2.4.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Traditional dry cured products. (Dry curing process involves dry application of curing mixture containing nitrites and/or nitrates, salt and other components to the surface of the meat followed by a period of stabilisation/maturation).</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">08.2.4.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">08.2.4.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Wine and other products defined by Regulation (EEC) No 1234/2007, and alcohol free counterparts</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14.2.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Infant formulae as defined by Directive 2006/141/EC</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13.1.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.1">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fats and oils essentially free from water (excluding anhydrous milkfat)</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.1</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2.1</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.5">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Soups and broths</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.5</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12.5</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-15">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Ready-to-eat savouries and snacks</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.1.2">
+    <additives:categoryName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Meat preparations as defined by Regulation (EC) No 853/2004</additives:categoryName>
+    <additives:categoryCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.1.2</additives:categoryCode>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8.1.2</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category"/>
+  </rdf:Description>
+<rdf:Description xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" rdf:about="http://ec.europa.eu/geninfo/legal_notices_en.htm">
+<rdfs:label xml:lang="en">The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm</rdfs:label>
+<rdf:type rdf:resource="http://ec.europa.eu/geninfo/LegalNotices"/>
+</rdf:Description>
+</rdf:RDF>

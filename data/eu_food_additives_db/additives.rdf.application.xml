@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-124">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-54"/>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-07-10 00:00:00.0</additives:decisionDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">125</additives:id>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/05</additives:refNumberAppProc>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">124</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-25 00:00:00.0</additives:decisionDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/03</additives:refNumberAppProc>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-04 00:00:00.0</additives:applicationDate>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-06-16 00:00:00.0</additives:applicationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-365">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-32"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">365</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-109">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-51"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-28 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-03-15 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">109</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-138">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-73"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-01-04 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure initiated</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">138</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-345">
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/09</additives:refNumberAppProc>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-02-03 00:00:00.0</additives:applicationDate>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-145"/>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">345</additives:id>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">135</additives:id>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">146</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-04-18 00:00:00.0</additives:applicationDate>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-05-20 00:00:00.0</additives:applicationDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/09</additives:refNumberAppProc>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">370</additives:id>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-03-01 00:00:00.0</additives:decisionDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/02</additives:refNumberAppProc>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-07 00:00:00.0</additives:decisionDate>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-06-10 00:00:00.0</additives:decisionDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-195">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-99"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-11-07 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/07</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">195</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-134">
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-08-12 00:00:00.0</additives:decisionDate>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/04</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">371</additives:id>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-06-19 00:00:00.0</additives:applicationDate>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-128"/>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">134</additives:id>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-11-29 00:00:00.0</additives:applicationDate>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-12-26 00:00:00.0</additives:decisionDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">151</additives:id>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/12</additives:refNumberAppProc>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-167">
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-05-19 00:00:00.0</additives:decisionDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">167</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">388</additives:id>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-05 00:00:00.0</additives:applicationDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/13</additives:refNumberAppProc>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-317"/>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-03-24 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-216">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-326"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-02-25 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-03-26 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">216</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-153">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-368"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-09-09 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/10</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">153</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-379">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-12"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">379</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-105">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-183"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-06-19 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EFSA opinion adopted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-07-05 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">105</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-120">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-329"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-03-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-05-01 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/09</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">120</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-361">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-10"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">361</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-110">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-98"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-12-15 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-01-10 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/03</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">110</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-389">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-319"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-05 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">389</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-147">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-366"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-01-31 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/03</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">147</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-170">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-30"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-03-24 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-04-21 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/13</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">170</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-157">
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">risk assessment ongoing</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">157</additives:id>
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2895"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006-03-13 00:00:00.0</additives:applicationDate>
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2894"/>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-02-09 00:00:00.0</additives:decisionDate>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-370"/>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006/03</additives:refNumberAppProc>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-221">
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">221</additives:id>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-64"/>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-03-17 00:00:00.0</additives:decisionDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/17</additives:refNumberAppProc>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-03-27 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/04</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">161</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-119">
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-05-25 00:00:00.0</additives:applicationDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/07</additives:refNumberAppProc>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-07-06 00:00:00.0</additives:applicationDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-06-15 00:00:00.0</additives:decisionDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">164</additives:id>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">119</additives:id>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-06-29 00:00:00.0</additives:decisionDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/04</additives:refNumberAppProc>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-04-03 00:00:00.0</additives:decisionDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">115</additives:id>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/12</additives:refNumberAppProc>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-172"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-177">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2906"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-375"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-04-27 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-06-17 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/13</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">177</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-354">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-5"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/16</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">354</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-143">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-332"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-09-07 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-09-28 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/13</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">143</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-123">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-180"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-12-06 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-01-15 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">123</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-160">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-152"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-06-21 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-08-29 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/16</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">160</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-366">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-34"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">366</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-139">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2920"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-362"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-10 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-05-19 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/11</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">139</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-376">
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/06</additives:refNumberAppProc>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-08 00:00:00.0</additives:applicationDate>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-10-25 00:00:00.0</additives:decisionDate>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-75"/>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">376</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-10-04 00:00:00.0</additives:applicationDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">126</additives:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-410">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-272"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-12-13 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-03-05 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/15</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">410</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-346">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-44"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-14 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/10</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">346</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-154">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-369"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-09-09 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/11</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">154</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-217">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-377"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-01-31 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application rejected</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-07-25 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">negative</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">217</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-362">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-20"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">362</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-137">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-210"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-04-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-06-04 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/10</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">137</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-116">
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">381</additives:id>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-328"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-07-13 00:00:00.0</additives:applicationDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">378</additives:id>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-08-25 00:00:00.0</additives:decisionDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/05</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">116</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-148">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-96"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-04-23 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-06-15 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/08</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">148</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-434">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-214"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-03-11 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure initiated</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">434</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-158">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-371"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-04-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-05-06 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/15</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">158</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-181">
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">181</additives:id>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-313"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-04-11 00:00:00.0</additives:applicationDate>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-26 00:00:00.0</additives:decisionDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014/02</additives:refNumberAppProc>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">435</additives:id>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-05 00:00:00.0</additives:applicationDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/06</additives:refNumberAppProc>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-382">
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">374</additives:id>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-3"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">382</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-144">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-129"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-08-26 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-10-22 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/06</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">144</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-178">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2913"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-376"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-08-19 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-09-23 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/14</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">178</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-386">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-314"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-05 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">386</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-179">
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-03-28 00:00:00.0</additives:applicationDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/03</additives:refNumberAppProc>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/08</additives:refNumberAppProc>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-07-29 00:00:00.0</additives:applicationDate>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-295"/>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-04-29 00:00:00.0</additives:decisionDate>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">179</additives:id>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">113</additives:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-383">
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">383</additives:id>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-41"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-04-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure initiated</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">360</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-107">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2602"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-354"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-10-06 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EFSA opinion adopted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-12-01 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">107</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-132">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-292"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-08-23 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-01 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/08</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">132</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-367">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-38"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">367</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-373">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-2"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-01-31 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">373</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-200">
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">375</additives:id>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-33"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-26 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/09</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">200</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-122">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2671"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-358"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006-10-01 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2007-03-19 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">122</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-136">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-361"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-12-13 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-03-24 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/05</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">136</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-363">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-22"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">363</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-377">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-136"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-02-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">377</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-171">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-373"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-01-12 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-04-14 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/14</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">171</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-413">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-105"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-11-06 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/18</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">413</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-347">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-379"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-11-26 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-03-22 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">negative</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/11</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">347</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-169">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-37"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-03-24 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-04-21 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/13</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">169</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-155">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-31"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2008-04-04 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2008-06-02 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2008/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">155</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-117">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-356"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-06-19 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-08-20 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/06</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">117</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-149">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-203"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-03-28 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-09-13 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/14</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">149</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-127">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-359"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-08-03 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-25 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/07</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">127</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-112">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-293"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-05-26 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-09-29 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">112</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-159">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-63"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-06-21 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-08-29 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/16</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">159</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-145">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-365"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-04-28 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-07-15 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/07</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">145</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-194">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-148"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-07 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/08</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">194</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-227">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-23"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-04 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/08</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">227</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-437">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-321"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-04-11 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">437</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-175">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-374"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-03-25 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-09-17 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/15</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">175</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-412">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-380"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-10-07 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/17</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">412</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-142">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-363"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-04-14 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2001/12</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">142</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-108">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2608"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-355"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006-05-19 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EFSA opinion adopted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006-07-28 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">108</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-384">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-189"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-04-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">384</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-201">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-196"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-10-18 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/11</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">201</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-104">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2549"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-353"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-12-02 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-05-15 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Steviol glycosides</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">104</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-368">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-40"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">368</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-162">
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-03-22 00:00:00.0</additives:decisionDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure stopped</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/04</additives:refNumberAppProc>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-07-28 00:00:00.0</additives:decisionDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">162</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/11, no further proceeding</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">141</additives:id>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-07-14 00:00:00.0</additives:applicationDate>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-325"/>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-02-28 00:00:00.0</additives:applicationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-219">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-257"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-09-23 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-10-21 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/14</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">219</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-364">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-28"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">364</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-121">
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/08  Shellac in boiled eggs</additives:refNumberAppProc>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-09-03 00:00:00.0</additives:decisionDate>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-296"/>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">121</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">114</additives:id>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-28 00:00:00.0</additives:applicationDate>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-07-29 00:00:00.0</additives:applicationDate>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-03-24 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/04  Shellac as surface agent on mangoes avocados and papaya tropical fruits</additives:refNumberAppProc>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-152">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-367"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-09-09 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/09</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">152</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-348">
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">385</additives:id>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">168</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-04-21 00:00:00.0</additives:decisionDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/13</additives:refNumberAppProc>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/13</additives:refNumberAppProc>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-312"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-05 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">348</additives:id>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-03-24 00:00:00.0</additives:applicationDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-11 00:00:00.0</additives:applicationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-166">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-372"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-09-13 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-11-27 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/18</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">166</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-156">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-78"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2008-12-23 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-02-25 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2008/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">156</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-118">
+    <additives:hasDocument xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2649"/>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-357"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2007-11-13 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2007-12-19 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2007/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">118</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-380">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-47"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-02-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">380</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-369">
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-05 00:00:00.0</additives:applicationDate>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">387</additives:id>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-316"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">369</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-128">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-360"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-01-18 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-04 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">128</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-390">
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012/05</additives:refNumberAppProc>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-11-07 00:00:00.0</additives:applicationDate>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-05 00:00:00.0</additives:applicationDate>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-03-05 00:00:00.0</additives:applicationDate>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-22 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-03-19 00:00:00.0</additives:applicationDate>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/05</additives:refNumberAppProc>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">223</additives:id>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">390</additives:id>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/16</additives:refNumberAppProc>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">411</additives:id>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">182</additives:id>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application accepted</additives:applicationStatus>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EFSA opinion adopted</additives:applicationStatus>
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-353"/>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-02-21 00:00:00.0</additives:decisionDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-355">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-6"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-02-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">355</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-226">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-220"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-04-16 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013/07</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">226</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-436">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-320"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-04-11 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">application received</additives:applicationStatus>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014/02</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">436</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-111">
+    <additives:hasAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-297"/>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-11-08 00:00:00.0</additives:applicationDate>
+    <additives:applicationStatus xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">procedure completed</additives:applicationStatus>
+    <additives:decisionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-01-26 00:00:00.0</additives:decisionDate>
+    <additives:decision xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">positive</additives:decision>
+    <additives:refNumberAppProc xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/01</additives:refNumberAppProc>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">111</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application"/>
+  </rdf:Description>
+<rdf:Description xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" rdf:about="http://ec.europa.eu/geninfo/legal_notices_en.htm">
+<rdfs:label xml:lang="en">The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm</rdfs:label>
+<rdf:type rdf:resource="http://ec.europa.eu/geninfo/LegalNotices"/>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,959 @@
+{
+  "items": [
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/03",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-06-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-11-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "124",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-54",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-124"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "365",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-32",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-365"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-02-28 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-03-15 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "109",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-51",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-109"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-01-04 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure initiated",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "138",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-73",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-138"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-05-20 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-06-10 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "370",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-145",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-345"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/07",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-11-07 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "195",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-99",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-195"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/12",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-11-29 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-12-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "151",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-128",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-134"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/13",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-03-24 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-05-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "388",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-317",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-167"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-02-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2014-03-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "216",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-326",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-216"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/10",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-09-09 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "153",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-368",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-153"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-02-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "379",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-12",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-379"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-06-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-07-05 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "EFSA opinion adopted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "105",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-183",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-105"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/09",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-03-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-05-01 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "120",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-329",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-120"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "361",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-10",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-361"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/03",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-12-15 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-01-10 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "110",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-98",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-110"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-05-05 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "389",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-319",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-389"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/03",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-01-31 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "147",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-366",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-147"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/13",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-03-24 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-04-21 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "170",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-30",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-170"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2894",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2006/03",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2006-03-13 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-02-09 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "risk assessment ongoing",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "157",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-370",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-157"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/04",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-03-27 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-03-17 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "161",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-64",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-221"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/12",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-07-06 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2012-04-03 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "115",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-172",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-119"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2906",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/13",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-04-27 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-06-17 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "177",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-375",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-177"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/16",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "354",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-354"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/13",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-09-07 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-09-28 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "143",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-332",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-143"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-12-06 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-01-15 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "123",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-180",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-123"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/16",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-06-21 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-08-29 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "160",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-152",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-160"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "366",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-34",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-366"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2920",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/11",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-02-10 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-05-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "139",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-362",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-139"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/06",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-10-04 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-10-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "126",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-75",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-376"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/15",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-12-13 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2014-03-05 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "410",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-272",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-410"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/10",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-08-14 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "346",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-44",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-346"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/11",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-09-09 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "154",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-369",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-154"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-01-31 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2013-07-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application rejected",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "217",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-377",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "negative",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-217"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "362",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-20",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-362"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/10",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-04-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-06-04 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "137",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-210",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-137"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/05",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-07-13 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-08-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "116",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-328",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-116"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/08",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-04-23 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-06-15 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "148",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-96",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-148"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2014/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2014-03-11 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure initiated",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "434",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-214",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-434"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/15",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-04-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-05-06 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "158",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-371",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-158"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/06",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-05-05 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2012-05-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "435",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-313",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-181"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-02-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "382",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-382"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/06",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-08-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-10-22 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "144",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-129",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-144"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2913",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/14",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-08-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-09-23 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "178",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-376",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-178"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-05-05 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "386",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-314",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-386"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/08",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-07-29 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-04-29 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "113",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-295",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-179"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-04-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure initiated",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "360",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-41",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-383"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2602",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-10-06 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-12-01 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "EFSA opinion adopted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "107",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-354",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-107"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/08",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-08-23 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-11-01 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "132",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-292",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-132"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "367",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-38",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-367"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-01-31 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "373",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-373"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/09",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-06-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "200",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-33",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-200"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2671",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2006/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2006-10-01 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2007-03-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "122",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-358",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-122"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/05",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-12-13 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-03-24 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "136",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-361",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-136"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "363",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-22",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-363"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-02-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "377",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-136",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-377"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/14",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-01-12 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-04-14 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "171",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-373",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-171"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/18",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-11-06 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "413",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-105",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-413"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/11",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-11-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2013-03-22 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "347",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-379",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "negative",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-347"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/13",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-03-24 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-04-21 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "169",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-37",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-169"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2008/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2008-04-04 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2008-06-02 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "155",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-31",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-155"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/06",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-06-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-08-20 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "117",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-356",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-117"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/14",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-03-28 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-09-13 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "149",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-203",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-149"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/07",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-08-03 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-11-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "127",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-359",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-127"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-05-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-09-29 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "112",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-293",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-112"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/16",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-06-21 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-08-29 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "159",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-63",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-159"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/07",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-04-28 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-07-15 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "145",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-365",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-145"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/08",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-12-07 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "194",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-148",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-194"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/08",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-06-04 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "227",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-23",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-227"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2014/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2014-04-11 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "437",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-321",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-437"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/15",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-03-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-09-17 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "175",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-374",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-175"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/17",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-10-07 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "412",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-380",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-412"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2001/12",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-04-14 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "142",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-363",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-142"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2608",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2006/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2006-05-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2006-07-28 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "EFSA opinion adopted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "108",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-355",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-108"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-04-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "384",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-189",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-384"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/11",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-10-18 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "201",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-196",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-201"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2549",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "Steviol glycosides",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-12-02 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-05-15 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "104",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-353",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-104"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "368",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-40",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-368"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/11, no further proceeding",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-02-28 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-07-28 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "141",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-325",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-162"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2009/14",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-09-23 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-10-21 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "219",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-257",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-219"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "364",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-28",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-364"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/04  Shellac as surface agent on mangoes avocados and papaya tropical fruits",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2009-07-29 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-03-24 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "114",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-296",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-121"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/09",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-09-09 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "152",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-367",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-152"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/13",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-12-11 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2010-04-21 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "348",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-312",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-348"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2011/18",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-09-13 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2012-11-27 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "166",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-372",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-166"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2008/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2008-12-23 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2009-02-25 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "156",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-78",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-156"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasDocument": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2649",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2007/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2007-11-13 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2007-12-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "118",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-357",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-118"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2011-02-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "380",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-47",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-380"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "369",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-316",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-369"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2012/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2012-01-18 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2012-12-04 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application accepted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "128",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-360",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-128"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/16",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-03-19 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "EFSA opinion adopted",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2014-02-21 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "182",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-353",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-390"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-02-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "355",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-355"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2013/07",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2013-04-16 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "226",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-220",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-226"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2014/02",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2014-04-11 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "application received",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "436",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-320",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-436"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Application",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/refNumberAppProc": "2010/01",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationDate": "2010-11-08 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decisionDate": "2011-01-26 00:00:00.0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/applicationStatus": "procedure completed",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "111",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/hasAdditive": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-297",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/decision": "positive",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/application-111"
+    },
+    {
+      "@context": "http://ec.europa.eu/geninfo/LegalNotices",
+      "http://www.w3.org/2000/01/rdf-schema#label": {
+        "en": "The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm"
+      },
+      "@subject": "http://ec.europa.eu/geninfo/legal_notices_en.htm"
+    }
+  ]
+}

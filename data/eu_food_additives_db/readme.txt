@@ -1,0 +1,1 @@
+Note:  This is a BETA version of SANCO open data with temporarily allocated URIs which will be changed in line with institutional guidelines during the coming months (date of this note:  March 2013).

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-102">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4472&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-16 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-16 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-07-26 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 202</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 723/2013 of 26 July 2013 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of extracts of rosemary (E 392) in certain low fat meat and fish products</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 723/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">102</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-95">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3528&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-04-06 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-04-06 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-03-17 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 78</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 232/2012 of 16 March 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the conditions of use and the use levels for Quinoline Yellow (E 104), Sunset Yellow FCF/Orange Yellow S (E 110) and Ponceau 4R, Cochineal Red A (E 124)</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 232/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">95</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-106">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4482&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-24 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-24 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-03 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 150</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 510/2013 of 3 June 2013 amending Annexes I, II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of iron oxides and hydroxides (E 172), hydroxypropyl methyl cellulose (E 464) and polysorbates (E 432-436) for marking of certain fruits</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 510/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">106</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-57">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2582&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-12-02 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-12-02 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-12 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L295</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1130/2011 of 11 November 2011 amending Annex III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council on food additives by establishing a Union list of food additives approved for use in food additives, food enzymes, food flavourings and nutrients</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1130/2011</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">57</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-108">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4484&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-20 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-20 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-07-30 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 204</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 738/2013 of 30 July 2013 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of certain additives in seaweed based fish roe analogues</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 738/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">108</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-99">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3628&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-04-09 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-04-09 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-03-20 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 79</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 256/2013&lt;br /&gt;of 20 March 2013&lt;br /&gt;amending Annex III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of Sodium ascorbate (E 301) in vitamin D preparations intended for use in foods for infants and young children</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 256/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">99</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-97">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3605&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-03 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-03 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-05-14 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L129</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 438/2013 of 13 May 2013 amending and correcting Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of certain food additives</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 438/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">97</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-59">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2584&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-12-02 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-12-02 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-12 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L295</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1131/2011 of 11 November 2011 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council with regard to steviol glycosides</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1131/2011</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">59</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-104">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4474&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-09-18 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-09-18 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-28 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 230</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">REGULATIONS COMMISSION REGULATION (EU) No 816/2013 of 28 August 2013 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of Neutral methacrylate copolymer and Anionic methacrylate copolymer in solid food supplements and the Annex to Commission Regulation (EU) No 231/2012 as regards the specifications for Basic methacrylate copolymer (E 1205), Neutral methacrylate copolymer and Anionic methacrylate copolymer</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 816/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">104</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-74">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3289&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-03 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-03 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-11-12 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 313</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1057/2012 of 12 November 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of dimethyl polysiloxane (E 900) as an anti-foaming agent in food supplements Text with EEA relevance&lt;br /&gt;&lt;br /&gt;</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1057/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">74</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-78">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3293&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-08-13 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-08-13 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-07-23 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 196</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 675/2012 of 23 July 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of Talc (E 553b) and Carnauba wax (E 903) on unpeeled coloured boiled eggs and the use of Shellac (E 904) on unpeeled boiled eggs</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 675/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">78</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-62">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2587&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1994-09-10 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1994-09-10 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1994-09-10 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L237</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unofficial consolidated version of European Parliament and Council Directive 94/35/EC of 30 June 1994 on sweeteners for use in foodstuffs amended by Directive 96/83/EC, Regulation (EC) No 1882/2003, Directive 2003/115/EC and Directive 2006/52/EC</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">94/35/EC</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">62</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-76">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3291&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-07-23 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-07-23 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-07-02 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 173</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 583/2012 of 2 July 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of polysorbates (E 432-436) in coconut milk</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 583/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">76</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-60">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2585&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1994-09-10 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1994-09-10 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1994-09-10 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L237</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">European Parliament and Council Directive 94/36/EC of 30 June 1994 on colours for use in foodstuffs</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">94/36/EC</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">60</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-64">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2917&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-25 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-25 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-05 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 144</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 470/2012 of 4 June 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of polydextrose (E 1200) in beer</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 470/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">64</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-93">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3425&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-07-19 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-07-19 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-28 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 169</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 570/2012 of 28 June 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of benzoic acid &amp;mdash; benzoates (E 210-213) in alcohol-free counterparts of wine</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 570/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">93</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-94">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3527&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-02-06 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-02-06 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-01-17 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 13</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 25/2013 of 16 January 2013 amending Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council and the Annex to Commission Regulation (EU) No 231/2012 as regards the food additive potassium diacetate</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 25/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">94</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-103">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4473&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-20 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-20 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-07-30 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 204</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 739/2013 of 30 July 2013 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of Stigmasterol-rich plant sterols as a stabiliser in ready-to-freeze alcoholic cocktails, and the Annex to Commission Regulation (EU) No 231/2012 as regards specifications for Stigmasterol-rich plant sterols food additive</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 739/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">103</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-98">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3627&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-04-08 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-04-08 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-03-19 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 77</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 244/2013&lt;br /&gt;of 19 March 2013&lt;br /&gt;amending Annex III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of Tricalcium phosphate (E 341 (iii)) in nutrient preparations intended for use in foods for infants and young children</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 244/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">98</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-109">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4537&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-10-14 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-10-14 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-09-23 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 252</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 913/2013 of 23 September 2013 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of sweeteners in certain fruit or vegetable spreads</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 913/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">109</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-56">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2581&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-01 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-12-02 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-12 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L295</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1129/2011 of 11 November 2011 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council by establishing a Union list of food additives</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1129/2011</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">56</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-107">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4483&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-24 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-24 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-03 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 150</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 509/2013 of 3 June 2013 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of several additives in certain alcoholic beverages</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 509/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">107</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-105">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4476&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-09-18 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-09-18 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-28 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 230</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 817/2013 of 28 August 2013 amending Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council and the Annex to Commission Regulation (EU) No 231/2012 as regards Octenyl succinic acid modified gum arabic</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 817/2013</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">105</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-58">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2583&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010-01-20 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009-01-20 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2008-12-31 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L354</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EC) No 1333/2008</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">58</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-96">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3529&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2014-02-01 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-24 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-04 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 119</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission&amp;nbsp;Regulation (EU) No 380/2012 of 3 May 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the conditions of use and the use levels for aluminium-containing food additives</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 380/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">96</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-66">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2926&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-25 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-25 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-05 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">144</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 472/2012 of 4 June 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of glycerol esters of wood rosins (E 445) for printing on hard-coated confectionery products</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EC) No 472/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">66</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-75">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3290&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-11-29 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-11-29 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-11-08 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 310</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1049/2012 of 8 November 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of polyglycitol syrup in several food categories</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1049/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">75</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-80">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3295&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-28 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-28 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-07 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 336</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1166/2012 of 7 December 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of dimethyl dicarbonate (E 242) in certain alcoholic drinks</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1166/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">80</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-77">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3292&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-25 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-25 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-04 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 333</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1149/2012 of 4 December 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of extracts of rosemary (E 392) in fillings of stuffed dry pasta</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1149/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">77</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-79">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3294&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-25 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-25 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-12-04 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 333</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Commission Regulation (EU) No 1147/2012 of 4 December 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of beeswax (E 901), carnauba wax (E 903), shellac (E 904) and microcrystalline wax (E 905) on certain fruits</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 1147/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">79</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-61">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2586&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1995-03-25 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1995-03-25 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1995-03-18 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L61</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Unofficial consolidated version of European Parliament and Council Directive No 95/2/EC of 20 February 1995 on food additives other than colours and sweeteners amended by Directive 96/85/EC, Directive 98/72/EC, Directive 2001/5/EC, Directive 2003/52/EC, Regulation (EC) No 1882/2003, Directive 2003/114/EC and Directive 2006/52/EC</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">95/2/EC</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">61</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/legislation-65">
+    <additives:legislationUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2925&amp;documentCrossTable=legislation&amp;documentType=legislation&amp;documentTypeIdentifier=-1</additives:legislationUrl>
+    <additives:applicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-25 00:00:00.0</additives:applicationDate>
+    <additives:entryDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-25 00:00:00.0</additives:entryDate>
+    <additives:publicationDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-06-05 00:00:00.0</additives:publicationDate>
+    <additives:offiJournalNumber xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">L 144</additives:offiJournalNumber>
+    <additives:title xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">COMMISSION REGULATION (EU) No 471/2012 of 4 June 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of lysozyme (E 1105) in beer</additives:title>
+    <additives:legislationReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">(EU) No 471/2012</additives:legislationReference>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">65</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Legislation"/>
+  </rdf:Description>
+<rdf:Description xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" rdf:about="http://ec.europa.eu/geninfo/legal_notices_en.htm">
+<rdfs:label xml:lang="en">The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm</rdfs:label>
+<rdf:type rdf:resource="http://ec.europa.eu/geninfo/LegalNotices"/>
+</rdf:Description>
+</rdf:RDF>

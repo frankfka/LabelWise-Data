@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-262">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-22">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 150a-d, see also authorisation for Group E 150a-d</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-126">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-239">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 520 - 523, see also authorisation for Group E 520 - 523</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-116">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-99">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-191">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-98">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-278">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 620 - 625, see also authorisation for Group E 620 - 625</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-202">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-150">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 400 - 404, see also authorisation for Group E 400 - 404</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-79">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 251 - 252, see also authorisation for Group E 251 - 252</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-140">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 355 - 357, see also authorisation for Group E 355 - 357</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-268">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-84">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-21">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-341">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-216">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 491 - 495, see also authorisation for Group E 491 - 495</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-125">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-263">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-238">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 520 - 523, see also authorisation for Group E 520 - 523</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-63">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-228">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-177">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-115">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-253">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-97">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-301">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-279">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-32">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-78">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 249 - 250, see also authorisation for Group E 249 - 250</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-203">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 473 - 474, see also authorisation for Group E 473 - 474</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-83">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-167">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-322">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group IV, see also authorisation for Group IV</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-342">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-217">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 491 - 495, see also authorisation for Group E 491 - 495</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-166">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-100">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-264">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-34">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-114">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 321, see also authorisation for Group E 310 - 321</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-250">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 535 - 538, see also authorisation for Group E 535 - 538</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-227">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-76">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 249 - 250, see also authorisation for Group E 249 - 250</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-266">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-86">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-67">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-214">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 491 - 495, see also authorisation for Group E 491 - 495</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-65">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-165">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group IV, see also authorisation for Group IV</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-127">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-265">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-190">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-35">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-113">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 320, see also authorisation for Group E 310 - 320</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 321, see also authorisation for Group E 310 - 321</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-251">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 535 - 538, see also authorisation for Group E 535 - 538</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-226">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-290">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-151">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 400 - 404, see also authorisation for Group E 400 - 404</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-310">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-205">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 473 - 474, see also authorisation for Group E 473 - 474</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-95">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-267">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-85">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-20">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-340">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-66">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-174">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 432 - 436, see also authorisation for Group E 432 - 436</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-181">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-112">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 320, see also authorisation for Group E 310 - 320</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 321, see also authorisation for Group E 310 - 321</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-89">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 280 - 283, see also authorisation for Group E 280 - 283</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-6">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-195">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-60">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203; 214 - 219, see also authorisation for Group E 200 - 203; 214 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 214 - 219, see also authorisation for Group E 214 - 219</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-345">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-16">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-26">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 150a-d, see also authorisation for Group E 150a-d</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-164">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group IV, see also authorisation for Group IV</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-102">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-46">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203, see also authorisation for Group E 200 - 203</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203; 214 - 219, see also authorisation for Group E 200 - 203; 214 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 213, see also authorisation for Group E 200 - 213</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-122">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-154">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-56">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 213, see also authorisation for Group E 200 - 213</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 210 - 213, see also authorisation for Group E 210 - 213</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-306">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-37">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-173">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 432 - 436, see also authorisation for Group E 432 - 436</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-182">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-7">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-17">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-27">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-163">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-196">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-101">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-121">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-87">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 280 - 283, see also authorisation for Group E 280 - 283</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-143">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-153">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-305">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-57">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 213, see also authorisation for Group E 200 - 213</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 210 - 213, see also authorisation for Group E 210 - 213</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-281">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-156">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-183">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-176">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 432 - 436, see also authorisation for Group E 432 - 436</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-38">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-62">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203; 214 - 219, see also authorisation for Group E 200 - 203; 214 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 214 - 219, see also authorisation for Group E 214 - 219</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-260">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-18">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-162">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-124">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-193">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-24">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 150a-d, see also authorisation for Group E 150a-d</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-343">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-218">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 491 - 495, see also authorisation for Group E 491 - 495</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-240">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 524 - 528, see also authorisation for Group E 524 - 528</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-104">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-58">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203; 214 - 219, see also authorisation for Group E 200 - 203; 214 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 214 - 219, see also authorisation for Group E 214 - 219</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-304">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-71">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-175">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 432 - 436, see also authorisation for Group E 432 - 436</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-39">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-19">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-61">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203; 214 - 219, see also authorisation for Group E 200 - 203; 214 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 214 - 219, see also authorisation for Group E 214 - 219</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-194">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-344">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-123">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-25">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 150a-d, see also authorisation for Group E 150a-d</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-141">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 355 - 357, see also authorisation for Group E 355 - 357</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-103">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-303">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-219">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 491 - 495, see also authorisation for Group E 491 - 495</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-155">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-315">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group IV, see also authorisation for Group IV</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-329">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-259">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-231">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-160">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-41">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-199">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-135">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-51">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203, see also authorisation for Group E 200 - 203</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203; 214 - 219, see also authorisation for Group E 200 - 203; 214 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 213, see also authorisation for Group E 200 - 213</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-81">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 251 - 252, see also authorisation for Group E 251 - 252</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-185">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-283">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-335">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-220">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 500 - 504, see also authorisation for Group E 500 - 504</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-248">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 535 - 538, see also authorisation for Group E 535 - 538</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-120">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-258">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-130">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-105">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 320, see also authorisation for Group E 310 - 320</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 321, see also authorisation for Group E 310 - 321</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-230">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-272">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 620 - 625, see also authorisation for Group E 620 - 625</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-336">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-82">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-186">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-146">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 400 - 404, see also authorisation for Group E 400 - 404</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-52">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203, see also authorisation for Group E 200 - 203</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 203; 214 - 219, see also authorisation for Group E 200 - 203; 214 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 213, see also authorisation for Group E 200 - 213</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-282">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-247">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-108">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 320, see also authorisation for Group E 310 - 320</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 321, see also authorisation for Group E 310 - 321</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-327">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-131">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-133">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-197">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-29">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-15">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-233">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-187">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-285">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-337">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-53">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 213, see also authorisation for Group E 200 - 213</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 210 - 213, see also authorisation for Group E 210 - 213</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-246">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-55">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 213, see also authorisation for Group E 200 - 213</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 200 - 219, see also authorisation for Group E 200 - 219</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 210 - 213, see also authorisation for Group E 210 - 213</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-90">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 280 - 283, see also authorisation for Group E 280 - 283</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-232">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-132">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-134">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-198">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-5">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-70">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-40">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-28">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-171">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 432 - 436, see also authorisation for Group E 432 - 436</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-284">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-338">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-148">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 400 - 404, see also authorisation for Group E 400 - 404</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-188">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-212">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 481 - 482, see also authorisation for Group E 481 - 482</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-69">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-255">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-277">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 620 - 625, see also authorisation for Group E 620 - 625</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-91">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 280 - 283, see also authorisation for Group E 280 - 283</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-159">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-325">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group IV, see also authorisation for Group IV</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-245">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 524 - 528, see also authorisation for Group E 524 - 528</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-189">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-311">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-339">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-287">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-149">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 400 - 404, see also authorisation for Group E 400 - 404</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-225">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-235">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 520 - 523, see also authorisation for Group E 520 - 523</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-68">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 220 - 228, see also authorisation for Group E 220 - 228</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-109">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 320, see also authorisation for Group E 310 - 320</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 310 - 321, see also authorisation for Group E 310 - 321</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-244">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 524 - 528, see also authorisation for Group E 524 - 528</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-286">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-119">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-224">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 500 - 504, see also authorisation for Group E 500 - 504</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-276">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 620 - 625, see also authorisation for Group E 620 - 625</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-129">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 338 - 341, E 343 and E 450 - 452, see also authorisation for Group E 338 - 341, E 343 and E 450 - 452</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-157">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-323">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group IV, see also authorisation for Group IV</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-10">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-257">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-200">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-289">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-223">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 500 - 504, see also authorisation for Group E 500 - 504</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-118">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-243">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 524 - 528, see also authorisation for Group E 524 - 528</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-237">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 520 - 523, see also authorisation for Group E 520 - 523</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-137">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-11">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group III, see also authorisation for Group III</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-275">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 620 - 625, see also authorisation for Group E 620 - 625</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-210">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 481 - 482, see also authorisation for Group E 481 - 482</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-94">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-158">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-256">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 551 - 559, see also authorisation for Group E 551 - 559</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-324">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group IV, see also authorisation for Group IV</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-288">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 626 - 635, see also authorisation for Group E 626 - 635</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-201">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-30">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group II, see also authorisation for Group II</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-222">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 500 - 504, see also authorisation for Group E 500 - 504</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-242">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 524 - 528, see also authorisation for Group E 524 - 528</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-117">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-274">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in Group I, see also authorisation for Group I</additives:message>
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 620 - 625, see also authorisation for Group E 620 - 625</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-138">
+    <additives:message xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Substance is included in E 355 - 357, see also authorisation for Group E 355 - 357</additives:message>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+<rdf:Description xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" rdf:about="http://ec.europa.eu/geninfo/legal_notices_en.htm">
+<rdfs:label xml:lang="en">The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm</rdfs:label>
+<rdf:type rdf:resource="http://ec.europa.eu/geninfo/LegalNotices"/>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-128">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-183"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-182"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-181"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-132"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-131"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-130"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-129"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-127"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-249">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-251"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-250"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-248"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-221">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-224"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-223"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-222"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-220"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-64">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-71"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-70"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-69"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-68"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-67"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-66"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-65"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-63"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-106">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-113"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-112"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-109"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-108"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-105"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-4">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-165"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-164"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-325"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-324"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-323"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-322"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-315"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-77">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-78"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-76"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-378">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-257"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-256"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-255"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-253"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-204">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-205"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-203"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-273">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-278"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-277"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-276"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-275"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-274"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-272"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-2">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-40"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-30"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-26"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-25"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-39"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-32"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-22"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-6"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-28"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-19"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-38"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-20"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-24"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-41"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-48">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-62"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-61"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-60"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-58"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-52"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-51"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-46"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-172">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-176"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-175"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-174"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-173"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-171"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-139">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-141"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-140"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-138"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-147">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-151"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-150"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-149"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-148"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-146"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-23">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-26"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-25"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-24"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-22"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-280">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-287"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-289"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-282"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-281"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-284"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-283"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-286"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-285"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-279"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-288"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-1">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-102"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-227"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-190"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-150"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-247"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-275"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-193"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-99"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-323"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-118"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-343"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-231"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-265"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-82"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-274"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-156"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-322"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-117"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-230"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-165"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-290"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-188"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-266"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-338"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-121"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-164"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-97"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-222"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-284"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-100"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-337"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-120"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-240"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-198"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-283"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-341"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-126"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-154"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-135"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-197"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-340"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-327"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-289"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-153"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-39"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-303"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-189"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-220"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-311"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-101"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-226"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-202"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-246"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-133"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-287"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-86"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-264"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-225"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-201"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-245"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-116"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-85"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-263"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-159"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-187"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-272"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-279"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-115"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-143"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-177"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-163"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-186"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-278"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-336"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-162"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-149"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-95"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-306"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-315"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-282"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-335"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-243"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-125"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-148"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-94"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-134"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-196"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-281"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-288"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-104"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-124"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-329"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-195"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-325"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-345"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-191"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-151"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-276"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-301"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-324"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-310"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-119"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-344"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-232"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-268"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-166"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-286"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-267"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-224"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-200"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-244"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-339"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-122"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-98"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-84"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-223"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-158"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-285"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-137"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-83"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-199"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-157"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-185"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-342"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-277"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-155"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-305"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-233"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-242"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-160"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-304"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-167"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-103"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-123"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-228"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-146"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-211">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-212"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-210"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-88">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-91"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-90"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-89"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-87"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-107">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-114"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-113"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-112"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-109"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-108"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-105"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-50">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-55"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-60"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-61"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-56"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-51"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-57"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-52"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-58"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-53"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-46"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-62"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-47">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-52"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-51"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-46"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-3">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-21"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-16"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-5"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-27"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-15"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-35"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-10"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-18"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-11"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-7"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-29"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-17"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-34"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-241">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-245"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-244"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-243"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-242"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-240"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-215">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-219"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-218"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-217"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-216"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-214"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-49">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-57"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-56"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-55"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-53"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-52"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-51"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-46"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-54">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-57"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-56"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-55"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-53"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-59">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-62"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-61"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-60"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-58"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-254">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-262"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-260"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-259"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-258"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-257"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-256"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-255"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-253"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-236">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-239"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-238"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-237"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-235"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-80">
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-81"/>
+    <additives:groupAdditive xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/" rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/additive-79"/>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Additive"/>
+  </rdf:Description>
+<rdf:Description xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" rdf:about="http://ec.europa.eu/geninfo/legal_notices_en.htm">
+<rdfs:label xml:lang="en">The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm</rdfs:label>
+<rdf:type rdf:resource="http://ec.europa.eu/geninfo/LegalNotices"/>
+</rdf:Description>
+</rdf:RDF>

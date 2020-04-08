@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2561">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2561&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">DE - TEIL D LEBENSMITTELKATEGORIEN (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">DE - TEIL D LEBENSMITTELKATEGORIEN</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2561</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2578">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2578&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">SE - DEL D LIVSMEDELSKATEGORIER (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">SE - DEL D LIVSMEDELSKATEGORIER</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2578</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4482">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4482&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-03 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2 Reg (EU) No 510 2013 iron oxide hydroxypropyl methyl cellulose and polysorbates for marking of certain fruits (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4482</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3294">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3294&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 1147_2012 waxes on certain fruits (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3294</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3628">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3628&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1_Reg (EU) No 256_2013 Sodium ascorbate in vit D prep (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3628</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2581">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2581&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-12 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EU) No 1129_2011 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2581</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2926">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2926&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 472_2012 (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/02</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2926</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3289">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3289&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 1057_2012 polysiloxane in food supplements (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/08</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3289</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2568">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2568&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">FR - PARTIE D CATEGORIES DE DENREES ALIMENTAIRES (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">FR - PARTIE D CATEGORIES DE DENREES ALIMENTAIRES</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2568</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2571">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2571&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">LT - D DALIS. MAISTO PRODUKT? KATEGORIJOS (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">LT - D DALIS. MAISTO PRODUKT? KATEGORIJOS</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2571</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2585">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2585&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1994-09-10 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Directive 94_36_EC (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2585</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3290">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3290&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 1049_2012 polyglycitol syrup (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006/02</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3290</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2565">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2565&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EN - PART D FOOD CATEGORIES (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EN - PART D FOOD CATEGORIES</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2565</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4473">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4473&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-07-30 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1 Reg (EU) No 2013 739 Stigma sterol (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4473</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2575">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2575&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">PL - CZ??? D KATEGORIE ?YWNO?CI (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">PL - CZ??? D KATEGORIE ?YWNO?CI</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2575</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2579">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2579&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">SK - ?AS? D KATEG�RIE POTRAV�N (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">SK - ?AS? D KATEG�RIE POTRAV�N</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2579</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2560">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2560&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">CZ - ?�ST D KATEGORIE POTRAVIN (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">CZ - ?�ST D KATEGORIE POTRAVIN</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2560</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3627">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3627&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1_Reg (EU) No 244_2013 Tricalcium phosphate in nut preparations (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3627</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2917">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2917&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 470_2012 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2917</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3293">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3293&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 675_2012 waxes on eggs (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3293</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2580">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2580&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">SL - DEL D KATEGORIJE �IVIL (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">SL - DEL D KATEGORIJE �IVIL</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2580</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2584">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2584&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-12 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EU) No 1131_2011 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2584</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2570">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2570&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">IT - PARTE D CATEGORIE DI ALIMENTI (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">IT - PARTE D CATEGORIE DI ALIMENTI</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2570</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3527">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3527&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-01-17 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EU) No 25_2013 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3527</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2569">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2569&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">HU - D. R�SZ �LELMISZER-KATEG�RI�K (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">HU - D. R�SZ �LELMISZER-KATEG�RI�K</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2569</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3479">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3479&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-04-11 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">IT-WMV 640x360 (WMV)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">VIDEO IT</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3479</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2564">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2564&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EL - ????? ? ?????????? ???????? (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EL - ????? ? ?????????? ????????</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2564</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2574">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2574&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">NL - DEEL D LEVENSMIDDELENCATEGORIE�N (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">NL - DEEL D LEVENSMIDDELENCATEGORIE�N</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2574</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4474">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4474&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-28 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1 Reg (EU) No 2013 816 Neutral and Anionic methacrylate copolymer (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4474</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2587">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2587&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006-08-15 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Directive 94_35_EC (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2587</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4484">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4484&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-07-30 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1 Reg (EU) No 2013 738 Seaweed based fish roe analogues (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4484</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3292">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3292&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 1149_2012 rosemary in fillings of dried stuufed pasta (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011/09</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3292</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3528">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3528&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-03-17 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EU) No 232_2012 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3528</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2566">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2566&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">ES - PARTE D. CATEGOR�AS DE ALIMENTOS (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">ES - PARTE D. CATEGOR�AS DE ALIMENTOS</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2566</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3287">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3287&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 570_2012 benzoate in alcohol free wine (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/03</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3287</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2563">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2563&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EE - D OSA TOIDUGRUPID (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EE - D OSA TOIDUGRUPID</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2563</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2583">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2583&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2008-12-31 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EC) No 1333_2008 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2583</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2573">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2573&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">MT - PARTI D KATEGORIJI TAL-IKEL (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">MT - PARTI D KATEGORIJI TAL-IKEL</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2573</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2559">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2559&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">BG - ???? ? ????????? ????? (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">BG - ???? ? ????????? ?????</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2559</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2577">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2577&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">RO - PARTEA D CATEGORII DE PRODUSE ALIMENTARE (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">RO - PARTEA D CATEGORII DE PRODUSE ALIMENTARE</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2577</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3141">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3141&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:additionalInformation xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">WGA 12/05/09</additives:additionalInformation>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">FR_Customer_information_PURE_TASTE_121024 (1) (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">interpretation</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3141</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3291">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3291&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 583_2012 polysorbate in coconut milk (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/07</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3291</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2925">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2925&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 471_2012 (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2009/05</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2925</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4483">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4483&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-06-03 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2 Reg (EU) No 509 2013 several additives in certain alcoholic beverages (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4483</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4476">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4476&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-08-28 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1 Reg (EU) No 2013 817 Octeny succinic acid modified gum arabic (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4476</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2586">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2586&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2006-08-15 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Directive 95_2_EC (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2586</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3529">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3529&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2012-05-04 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EU) No 380_2012 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3529</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2567">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2567&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">FI - D OSA ELINTARVIKERYHM�T (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">FI - D OSA ELINTARVIKERYHM�T</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2567</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2572">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2572&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">LV - D DALIS. MAISTO PRODUKT? KATEGORIJOS (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">LV - D DALIS. MAISTO PRODUKT? KATEGORIJOS</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2572</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3288">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3288&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 1057_2012 polysiloxane in food supplements (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3288</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3295">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3295&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Reg (EU) No 1166_2012 dimethyl dicarbonate in cerain alcoholic drinks (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3295</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3605">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3605&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-05-14 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">438_2013 (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">EU_438_2013</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3605</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2562">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2562&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">DK - DEL D F�DEVAREKATEGORIER (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">DK - DEL D F�DEVAREKATEGORIER</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2562</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2582">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2582&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2011-11-12 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Regulation (EU) No 1130_2011 (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2582</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-3425">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=3425&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1 Reg (EU) No 570_2012 benzoic acid benzoates in alcohol free counterparts of wine (PDF)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2010/03</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3425</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4472">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4472&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-07-26 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1 Reg (EU) No 2013 723 rosemary in certain low fat meat and fish products (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4472</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-4537">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=4537&amp;documentTypeIdentifier=56</additives:documentUrl>
+    <additives:versionDate xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2013-09-23 00:00:00.0</additives:versionDate>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1 Reg (EU) No 2013 913 sweeteners in fruit spreads (PDF)</additives:fileName>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">legislation</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4537</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/document-2576">
+    <additives:documentUrl xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">https://webgate.ec.europa.eu/sanco_foods/main/?event=document.view&amp;identifier=2576&amp;documentTypeIdentifier=57</additives:documentUrl>
+    <additives:fileName xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">PT - PARTE D CATEGORIAS DE G�NEROS ALIMENT�CIOS (DOC)</additives:fileName>
+    <additives:documentReference xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">PT - PARTE D CATEGORIAS DE G�NEROS ALIMENT�CIOS</additives:documentReference>
+    <additives:documentType xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">information</additives:documentType>
+    <additives:id xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2576</additives:id>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Document"/>
+  </rdf:Description>
+<rdf:Description xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" rdf:about="http://ec.europa.eu/geninfo/legal_notices_en.htm">
+<rdfs:label xml:lang="en">The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm</rdfs:label>
+<rdf:type rdf:resource="http://ec.europa.eu/geninfo/LegalNotices"/>
+</rdf:Description>
+</rdf:RDF>

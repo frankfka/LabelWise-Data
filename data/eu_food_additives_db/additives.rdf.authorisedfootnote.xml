@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2171">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 300, E 301 and E 302 are authorised individually or in combination, levels expressed as ascorbic acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">18</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1884">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed as boric acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">54</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2186">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As a residue</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">42</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5528">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum usable level are derived from the maximum usable levels for its constituent parts, aspartame (E 951) and acesulfame-K (E 950).</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">49</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The levels for both E 951 and E 950 are not to be exceeded by use of the salt of aspartame-acesulfame, either alone or in combination with E 950 or E 951</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">50</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Limits are expressed as aspartame equivalent</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11(b)</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum usable levels are expressed in free acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">51</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2137">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 339, E 340 and E 341 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">20</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is expressed as P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 339 and E 340 are authorised individually or in combination and in conformity with the the limits set in Directives 2006/141/EC, 2006/125/EC, 1999/21/EC</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2200">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 410, E 412, E 414, E 415 and E 440 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">21</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-872">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level shall apply unless a different maximum level is specified in points 01 to 18 of this Annex in relation to individual foods or categories of foods</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">57</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1353">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 400 - 404,  E 406, E 407, E 410, E 412, E 415 and E 418</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">32</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1045">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1355">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 410, E 412, E 414, E 415 and E 440 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">21</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 407, E 410 and E 412 is added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 400 - 404,  E 406, E 407, E 410, E 412, E 415 and E 418</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">32</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2140">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 471, E 472a, E 472b and E 472c are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 322, E 471, E 472c and E 473 are added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2128">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 304, E 306, E 307, E 308 and E 309 are authorised individually are in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">19</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 306, E 307, E 308 and E 309 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">16</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1885">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed as boric acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">54</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2172">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 300, E 301 and E 302 are authorised individually or in combination, levels expressed as ascorbic acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">18</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5500">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The labelling requirements set out by Commission Regulation (EC) No 608/2004 (OJ L 97, 1.4.2004, p. 44) shall not apply</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">80</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5529">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum usable levels are expressed in free acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">51</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum usable levels are expressed in free imide</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">52</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2498">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1335">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 120, E 142, E 160d and E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">31</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2138">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 339, E 340 and E 341 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">20</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is expressed as P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 339 and E 340 are authorised individually or in combination and in conformity with the the limits set in Directives 2006/141/EC, 2006/125/EC, 1999/21/EC</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">15</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1553">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2130">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 304, E 306, E 307, E 308 and E 309 are authorised individually are in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">19</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 306, E 307, E 308 and E 309 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">16</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1533">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If E 950, E 951, E 957, E 959 and E 961 are used in combination in chewing gum, the maximum level for each is reduced proportionally</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5505">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum limits in edible parts</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">10</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum levels are expressed as SO&lt;sub&gt;2&lt;/sub&gt; relate to the total quantity, available from all sources, an SO&lt;sub&gt;2&lt;/sub&gt; content of not more than 10 mg/kg or 10 mg/l is not considered to be present.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">3</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1354">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 407, E 410 and E 412 is added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 400 - 404,  E 406, E 407, E 410, E 412, E 415 and E 418</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">32</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2192">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is expressed as P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 339, E 340 and E 341 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">20</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1356">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 410, E 412, E 414, E 415 and E 440 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">21</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 407, E 410 and E 412 is added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">17</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 400 - 404,  E 406, E 407, E 410, E 412, E 415 and E 418</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">32</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2129">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 304, E 306, E 307, E 308 and E 309 are authorised individually are in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">19</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 306, E 307, E 308 and E 309 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">16</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-974">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">This substance may be present naturally in certain cheeses as a result of fermentation processes. </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">29</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2188">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As a residue</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">42</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1319">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum usable levels are expressed in free imide</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">52</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2131">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 304, E 306, E 307, E 308 and E 309 are authorised individually are in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">19</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 306, E 307, E 308 and E 309 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">16</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-884">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is applicable to the sum and the levels are expressed as the free acid.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1191">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is applicable to the sum and the levels are expressed as the free acid.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5490">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 104, E 110, E 124 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">61</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">64</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 104 and E 110 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">63</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 110, E 124 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1000">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 151, E 160e</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">33</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">37</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 160e and E 161b</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1357">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 410, E 412, E 414, E 415 and E 440 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">21</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 400 - 404,  E 406, E 407, E 410, E 412, E 415 and E 418</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">32</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5532">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">expressed as steviol equivalents</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">60</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2170">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 300, E 301 and E 302 are authorised individually or in combination, levels expressed as ascorbic acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">18</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2037">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum limit expressed on fat</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-975">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">mg/dm&lt;sup&gt;2&lt;/sup&gt; surface (not present at a depth of 5 mm)</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2187">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As a residue</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">42</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2197">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 400, E 401, E 402 and E 404 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">23</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1001">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 160e and E 161b</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">33</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 151, E 160e</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">37</additives:footnoteCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5491">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 104, E 110, E 124 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">61</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">64</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 104 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">62</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 104 and E 110 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1358">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 400 - 404,  E 406, E 407, E 410, E 412, E 415 and E 418</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">32</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1352">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 400 - 404,  E 406, E 407, E 410, E 412, E 415 and E 418</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">32</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2132">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 322, E 471, E 472c and E 473 are added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5526">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is applicable to the sum and the levels are expressed as the free acid.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1462">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is applicable to the sum and the levels are expressed as the free acid.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 214 &amp;mdash; 219: p-hydroxybenzoates (PHB), maximum 300 mg/kg</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1530">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum usable levels are expressed in free imide</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">52</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If E 950, E 951, E 957, E 959 and E 961 are used in combination in chewing gum, the maximum level for each is reduced proportionally</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1847">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 151, E 160e</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">37</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5492">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 104, E 110, E 124 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The total quantity of E 110, E 124 and the colours in Group III shall not exceed the maximum listed for Group III</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">63</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">61</additives:footnoteCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1007">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 151, E 160e</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">37</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 160e and E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">33</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-911">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum limit expressed on fat</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">13</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is applicable to the sum and the levels are expressed as the free acid.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed on fat basis</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">41</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1194">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed de Fe</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">56</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1127">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Limits are expressed as acesulfame K equivalent</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11(a)</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum usable level are derived from the maximum usable levels for its constituent parts, aspartame (E 951) and acesulfame-K (E 950).</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">49</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The levels for both E 951 and E 950 are not to be exceeded by use of the salt of aspartame-acesulfame, either alone or in combination with E 950 or E 951</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">50</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Limits are expressed as aspartame equivalent</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11(b)</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1246">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed as Sn</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">55</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2195">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 400, E 401, E 402 and E 404 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">23</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1049">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is applicable to the sum and the levels are expressed as the free acid.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1775">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 214 &amp;mdash; 219: p-hydroxybenzoates (PHB), maximum 300 mg/kg</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">5</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is applicable to the sum and the levels are expressed as the free acid.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">2</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1163">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 120, E 122, E 129, E 131 and E 133</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">34</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1050">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1761">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 315 and E 316 are authoised individually or in combination, maximum limit is expressed as erythorbic acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1599">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 151, E 160e</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">37</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 120, E 162 and E 163 may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">53</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2134">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 331 and E 332 are authorised individually or in combination and in conformity with the the limits set in Directives 2006/141/EC, 2006/125/EC, 1999/21/EC</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">43</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-977">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In the cheese milk or equivalent level if added after removal of whey and addition of water</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">59</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">30</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Without added nitrites</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">40</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum residual amount, residue level at the end the production process</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Nitrates may be present in some heat-treated meat products resulting from natural conversion of nitrites to nitrates in a low-acid environment.</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum amount that may be added during manufacturing</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">39</additives:footnoteCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-905">
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">49</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">50</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Limits are expressed as acesulfame K equivalent</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If E 950, E 951, E 957, E 959 and E 961 are used in combination in chewing gum, the maximum level for each is reduced proportionally</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum usable level are derived from the maximum usable levels for its constituent parts, aspartame (E 951) and acesulfame-K (E 950).</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The levels for both E 951 and E 950 are not to be exceeded by use of the salt of aspartame-acesulfame, either alone or in combination with E 950 or E 951</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11(b)</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">11(a)</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Limits are expressed as aspartame equivalent</additives:footnoteValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2206">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 471, E 472a, E 472b and E 472c are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1331">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 120, E 142, E 160d and E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">31</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1008">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 120, E 142, E 160d and E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">31</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 160e and E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">33</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1193">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed de Fe</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">56</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2205">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 471, E 472a, E 472b and E 472c are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2196">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 400, E 401, E 402 and E 404 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">23</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1525">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum amount applies to all uses covered by this regulation, including the provisions set out in Annex III</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">47</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2406">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Calculated as anhydrous extract</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">45</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1532">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If E 950, E 951, E 957, E 959 and E 961 are used in combination in chewing gum, the maximum level for each is reduced proportionally</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2135">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 331 and E 332 are authorised individually or in combination and in conformity with the the limits set in Directives 2006/141/EC, 2006/125/EC, 1999/21/EC</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">43</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2141">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 471, E 472a, E 472b and E 472c are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">22</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 322, E 471, E 472c and E 473 are added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2504">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1106">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The quantities of each of the colours E 122 and E 155 may not exceed 50 mg/kg or mg/l</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">25</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1004">
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 120, E 162 and E 163 may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 160e and E 161b</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">53</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">31</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">34</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 120, E 122, E 129, E 131 and E 133</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">37</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">33</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 151, E 160e</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or in combination with E 120, E 142, E 160d and E 161b</additives:footnoteValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2202">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 410, E 412, E 414, E 415 and E 440 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">21</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1480">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed as aluminium</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">38</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2193">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As a residue</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">42</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1758">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum residual amount, residue level at the end the production process</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum amount that may be added during manufacturing</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">mg/dm&lt;sup&gt;2&lt;/sup&gt; surface (not present at a depth of 5 mm)</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">39</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">59</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">8</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">7</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">58</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Nitrates may be present in some heat-treated meat products resulting from natural conversion of nitrites to nitrates in a low-acid environment.</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Fo-value 3 is equivalent to 3 minutes heating at 121 oC (reduction of the bacterial load of one billion spores in each 1 000 cans to one spore in a thousand cans).</additives:footnoteValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-951">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Ingoing amount, residues not detectable</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">24</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed on fat basis</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">41</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1830">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As a residue</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">42</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2216">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As a residue</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">42</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1712">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed as aluminium</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">38</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2015">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1161">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 120, E 122, E 129, E 131 and E 133</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">34</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2136">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is expressed as P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In conformity with the the limits set in Directives 2006/141/EC, 2006/125/EC, 1999/21/EC</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">44</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1531">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If E 950, E 951, E 957, E 959 and E 961 are used in combination in chewing gum, the maximum level for each is reduced proportionally</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">12</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1655">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Propionic acid and its salts may be present in certain fermented products resulting from the fermentation process following good manufacturing practice.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">6</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5421">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum level applies to the dissolved food supplement ready for consumption when diluted with 200 ml of water</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">79</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2142">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 322, E 471, E 472c and E 473 are added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1005">
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">36</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In americano E 100, E 101, E 102, E 104, E 120, E 122, E 123, E 124 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 120, E 122, E 129, E 131 and E 133</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">26</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">33</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, E 102, E 120, E 122, E 160e and E 161b</additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter vino E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">In bitter soda E 100, E 101, E 102, E 104, E 110, E 120, E 122, E 123, E 124, E 129 are authorised individually or in combination </additives:footnoteValue>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 100, 102, E 120, E 122, E 129, E 142, E 151, E 160e, E 161b</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">27</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">34</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">28</additives:footnoteCode>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">35</additives:footnoteCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2203">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is expressed as P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As a residue</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">42</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2194">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 400, E 401, E 402 and E 404 are authorised individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">23</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5522">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Ingoing amount, residues not detectable</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">24</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1063">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed on fat basis</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">41</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1598">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 120, E 162 and E 163 may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">53</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1760">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 315 and E 316 are authoised individually or in combination, maximum limit is expressed as erythorbic acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">9</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-2173">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">E 304, E 306, E 307, E 308 and E 309 are authorised individually are in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">19</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-1162">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Maximum indiviually or for the combination of E 120, E 122, E 129, E 131 and E 133</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">34</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5518">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">If more than one of the substances E 322, E 471, E 472c and E 473 are added to a foodstuff, the maximum level established for that foodstuff for each of those substances is lowered with that relative part as is present of the other substances together in that foodstuff.</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">14</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level shall apply unless a different maximum level is specified in points 01 to 18 of this Annex in relation to individual foods or categories of foods</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">57</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The additives may be added individually or in combination</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">1</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">The maximum level is expressed as P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">4</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/authorisedCategory-5517">
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">Expressed on fat basis</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">41</additives:footnoteCode>
+    <additives:footnoteValue xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">As the sum of carnosol and carnosic acid</additives:footnoteValue>
+    <additives:footnoteCode xmlns:additives="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/">46</additives:footnoteCode>
+    <rdf:type rdf:resource="http://ec.europa.eu/semantic_webgate/dataset/additives/resource/AuthorisedCategory"/>
+  </rdf:Description>
+<rdf:Description xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" rdf:about="http://ec.europa.eu/geninfo/legal_notices_en.htm">
+<rdfs:label xml:lang="en">The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm</rdfs:label>
+<rdf:type rdf:resource="http://ec.europa.eu/geninfo/LegalNotices"/>
+</rdf:Description>
+</rdf:RDF>

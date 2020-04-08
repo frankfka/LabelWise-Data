@@ -1,0 +1,1907 @@
+[
+    {
+        "cas_id": "9000-01-5",
+        "name": "Gum Arabic",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "128-37-0",
+        "name": "Butylated Hydroxytoluene (BHT)",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "9000-40-2",
+        "name": "Carob Bean Gum",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9000-65-1",
+        "name": "Gum Tragacanth",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9000-36-6",
+        "name": "Sterculia Gum (karaya gum)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9000-07-1",
+        "name": "Carrageenan",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "99-76-3",
+        "name": "Methyl Paraben",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "94-13-3",
+        "name": "Propyl Paraben",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "50-70-4",
+        "name": "Sorbitol",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "69-65-8",
+        "name": "Mannitol",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "121-79-9",
+        "name": "Propyl Gallate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9000-28-6",
+        "name": "Gum Ghatti",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9000-30-0",
+        "name": "Guar Gum",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "8014-29-7",
+        "name": "Oil of Rue",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "16731-55-8",
+        "name": "Potassium metabisulfite",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7631-90-5",
+        "name": "Sodium bisulfite",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7681-57-4",
+        "name": "Sodium metabisulfite",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7757-83-7",
+        "name": "Sodium sulfite",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7446-09-5",
+        "name": "Sulfur dioxide",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "8000-78-0",
+        "name": "Garlic and Oil of Garlic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977051-44-7;<br /> 977051-14-1",
+        "name": "Nutmeg and Mace",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "84961-50-2",
+        "name": "Clove Bud Extract",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8000-34-8",
+        "name": "Clove Bud Oil",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977017-85-8",
+        "name": "Clove Bud Oleoresin",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8000-34-8",
+        "name": "Clove Leaf Oil",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8000-34-8",
+        "name": "Clove Stem Oil",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8028-89-5",
+        "name": "Caramel",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "557-34-6",
+        "name": "Zinc acetate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "3486-35-9",
+        "name": "Zinc carbonate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7646-85-7",
+        "name": "Zinc chloride",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "1314-13-2",
+        "name": "Zinc oxide",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7446-20-0",
+        "name": "Zinc sulfate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "8006-75-5",
+        "name": "Indian Dill Seed",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9002-18-0",
+        "name": "Agar-agar",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9005-34-9",
+        "name": "Ammonium alginate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9005-35-0",
+        "name": "Calcium alginate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9005-36-1",
+        "name": "Potassium alginate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9005-37-2",
+        "name": "Propylene glycol alginate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9005-38-3",
+        "name": "Sodium alginate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9004-65-3",
+        "name": "Hydroxypropylmethyl cellulose",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9004-67-5",
+        "name": "Methylcellulose",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9004-32-4",
+        "name": "Sodium Carboxymethyl cellulose",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9004-34-6",
+        "name": "Cellulose",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977005-28-9",
+        "name": "Cellulose, microcrystalline",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9000-11-7",
+        "name": "Carboxymethyl cellulose (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9004-35-7",
+        "name": "Cellulose acetate(packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9004-57-3",
+        "name": "Ethyl cellulose (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "471-34-1",
+        "name": "Calcium carbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "298-14-6",
+        "name": "Potassium bicarbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "584-08-7",
+        "name": "Potassium carbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "144-55-8",
+        "name": "Sodium bicarbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "497-19-8",
+        "name": "Sodium carbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "533-96-0",
+        "name": "Sodium sesquicarbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "57-55-6",
+        "name": "Propylene Glycol",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1323-39-3",
+        "name": "Propylene glycol monostearate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "68916-91-6",
+        "name": "Glycyrrhiza",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "53956-04-0",
+        "name": "Ammoniated Glycyrrhizin",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "1405-86-3",
+        "name": "Licorice",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "124-07-2",
+        "name": "Caprylic Acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "56-81-5",
+        "name": "Glycerin and Glycerides",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7772-99-8",
+        "name": "Stannous Chloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7783-28-0",
+        "name": "Ammonium phosphate dibasic (Report 32)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7722-76-1",
+        "name": "Ammonium phosphate monobasic (Report 32)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10102-76-8",
+        "name": "Calcium hexametaphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7757-93-9",
+        "name": "Calcium phosphate dibasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10031-30-8",
+        "name": "Calcium phosphate monobasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "12167-74-7",
+        "name": "Calcium phosphate tribasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7790-76-3",
+        "name": "Calcium pyrophosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7664-38-2",
+        "name": "Phosphoric acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7758-11-4",
+        "name": "Potassium phosphate dibasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7778-77-0",
+        "name": "Potassium phosphate monobasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7778-53-2",
+        "name": "Potassium phosphate tribasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7790-53-6",
+        "name": "Potassium polymetaphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7320-34-5",
+        "name": "Potassium pyrophosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "13845-36-8",
+        "name": "Potassium tripolyphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7758-16-9",
+        "name": "Sodium acid pyrophosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "68915-31-1",
+        "name": "Sodium hexametaphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "50813-16-6",
+        "name": "Sodium metaphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10140-65-5",
+        "name": "Sodium phosphate dibasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7558-80-7",
+        "name": "Sodium phosphate monobasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10361-89-4",
+        "name": "Sodium phosphate tribasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7722-88-5",
+        "name": "Sodium pyrophosphate, tetrabasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "68915-31-1-2",
+        "name": "Sodium tetrametaphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "14986-84-6",
+        "name": "Sodium tetraphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7785-84-4",
+        "name": "Sodium trimetaphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7758-29-4",
+        "name": "Sodium tripolyphosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7664-93-9",
+        "name": "Sulfuric Acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1066-33-7",
+        "name": "Ammonium bicarbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8000-73-5",
+        "name": "Ammonium carbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "12125-02-9",
+        "name": "Ammonium chloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1336-21-6",
+        "name": "Ammonium hydroxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7783-28-0",
+        "name": "Ammonium phosphate dibasic (Report 34)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7722-76-1",
+        "name": "Ammonium phosphate monobasic (Report 34)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7783-20-2",
+        "name": "Ammonium sulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Carbonyl Iron (packaging)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Electrolytic Iron (packaging)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Reduced iron (packaging)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Carbonyl Iron",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Electrolytic Iron",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "1185-57-5",
+        "name": "Ferric ammonium citrate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "2338-05-8",
+        "name": "Ferric citrate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "10045-86-0",
+        "name": "Ferric phosphate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "10058-44-3",
+        "name": "Ferric pyrophosphate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "24808-52-4",
+        "name": "Ferrous ascorbate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "563-71-3",
+        "name": "Ferrous carbonate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "23383-11-1",
+        "name": "Ferrous citrate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "141-01-5",
+        "name": "Ferrous fumarate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "6047-12-7",
+        "name": "Ferrous gluconate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "5905-52-2",
+        "name": "Ferrous lactate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7720-78-7",
+        "name": "Ferrous sulfate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Reduced iron",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "1338-14-3",
+        "name": "Iron naphthenate",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "58-95-7",
+        "name": "alpha-Tocopherol acetate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1406-66-2",
+        "name": "Tocopherols",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977146-32-9",
+        "name": "Brown algae",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977007-74-1",
+        "name": "Red algae",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7789-80-2",
+        "name": "Calcium iodate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7758-05-6",
+        "name": "Potassium iodate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7681-11-0",
+        "name": "Potassium iodide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977139-78-8",
+        "name": "Pulps (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "499-12-7",
+        "name": "Aconitic Acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "87-67-2",
+        "name": "Choline Bitartrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "67-48-1",
+        "name": "Choline Chloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7784-26-1",
+        "name": "Aluminum ammonium sulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "21645-51-2",
+        "name": "Aluminum hydroxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "688-37-9",
+        "name": "Aluminum oleate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "555-35-1",
+        "name": "Aluminum palmitate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7784-24-9",
+        "name": "Aluminum potassium sulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7784-28-3",
+        "name": "Aluminum sodium sulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10043-01-3",
+        "name": "Aluminum sulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "11138-49-1",
+        "name": "Sodium aluminate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7785-88-8",
+        "name": "Sodium aluminum phosphate, acidic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7785-88-8",
+        "name": "Sodium aluminum phosphate, basic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "11138-49-1",
+        "name": "Sodium phosphoaluminate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "81-25-4",
+        "name": "Cholic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "83-44-3",
+        "name": "Desoxycholic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "475-31-0",
+        "name": "Glycocholic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8008-63-7",
+        "name": "Ox bile extract",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "81-24-3",
+        "name": "Taurocholic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "62-54-4",
+        "name": "Calcium acetate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10035-04-8",
+        "name": "Calcium chloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "299-28-5",
+        "name": "Calcium gluconate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "3615-82-5",
+        "name": "Calcium phytate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8015-86-9",
+        "name": "Carnauba wax",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "1401-55-4",
+        "name": "Tannic acid (hydrolyzable gallotannins)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "3615-56-3",
+        "name": "Sorbose (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "50-99-7",
+        "name": "Corn Sugar (Dextrose)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "8029-43-4",
+        "name": "Corn Syrup",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "57-50-1",
+        "name": "Invert Sugar",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "87-89-8",
+        "name": "Inositol",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10102-17-7",
+        "name": "Sodium thiosulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "110-15-6",
+        "name": "Succinic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1592-23-0",
+        "name": "Calcium stearate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "61789-97-7",
+        "name": "Hydrogenated tallow (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "57-11-4",
+        "name": "Stearic acid (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "61789-97-7",
+        "name": "Tallow (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "25013-16-5",
+        "name": "Butylated Hydroxyanisole (BHA)",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "6915-15-7",
+        "name": "Malic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "97-67-6",
+        "name": "L-Malic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7492-55-9",
+        "name": "Calcium sorbate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "24634-61-5",
+        "name": "Potassium sorbate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7757-81-5",
+        "name": "Sodium sorbate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "110-44-1",
+        "name": "Sorbic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9000-70-8",
+        "name": "Gelatin",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "39409-82-0",
+        "name": "Magnesium carbonate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7786-30-3",
+        "name": "Magnesium chloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1309-42-8",
+        "name": "Magnesium hydroxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1309-48-4",
+        "name": "Magnesium oxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7782-75-4",
+        "name": "Magnesium phosphate, dibasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7757-87-1",
+        "name": "Magnesium phosphate, tribasic",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "557-04-0",
+        "name": "Magnesium stearate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10034-99-8",
+        "name": "Magnesium sulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1327-39-5",
+        "name": "Aluminum calcium silicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1344-95-2",
+        "name": "Calcium silicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "61790-53-2",
+        "name": "Diatomaceous earth (filter aid)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1343-88-0",
+        "name": "Magnesium silicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "93763-70-3",
+        "name": "Perlite (filter aid)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1312-76-1",
+        "name": "Potassium silicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977052-02-0",
+        "name": "Silica aerogel",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "14808-60-7",
+        "name": "Silicon dioxides",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1344-00-9",
+        "name": "Sodium aluminosilicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1344-01-0",
+        "name": "Sodium calcium aluminosilicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1344-09-8",
+        "name": "Sodium silicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "14807-96-6",
+        "name": "Talc (basic magnesium silicate)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "12168-85-3",
+        "name": "Tricalcium silicate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "5329-14-6",
+        "name": "Sulfamic acid (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7775-14-6",
+        "name": "Sodium hydrosulfite (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7779-86-4",
+        "name": "Zinc hydrosulfite (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9000-29-7",
+        "name": "Gum guaiac",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8001-31-8",
+        "name": "Coconut oil (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "60-33-3",
+        "name": "Linoleic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "112-80-1",
+        "name": "Oleic acid (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8002-03-7",
+        "name": "Peanut oil (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8016-13-5",
+        "name": "Fish oil, hydrogenated (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7773-01-5",
+        "name": "Manganous chloride",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "10024-66-5",
+        "name": "Manganous citrate",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "6485-39-8",
+        "name": "Manganous gluconate",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "1317-35-7",
+        "name": "Manganous oxide",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "7785-87-7",
+        "name": "Manganous sulfate",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "8002-26-4",
+        "name": "Tall oil (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "57-50-1",
+        "name": "Sucrose",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "8016-70-4",
+        "name": "Hydrogenated soybean oil",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "109-94-4",
+        "name": "Ethyl formate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "64-18-6",
+        "name": "Formic acid (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "141-53-7",
+        "name": "Sodium formate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1305-62-0",
+        "name": "Calcium hydroxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1305-78-8",
+        "name": "Calcium oxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7789-79-9",
+        "name": "Calcium hypophosphite",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10043-84-2",
+        "name": "Manganous hypophosphite",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7782-87-8",
+        "name": "Potassium hypophosphite",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7681-53-0",
+        "name": "Sodium hypophosphite",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "27214-00-2",
+        "name": "Calcium glycerophosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "27214-00-2",
+        "name": "Calcium glycerophosphate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "927-20-8",
+        "name": "Magnesium glycerophosphate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1320-46-3",
+        "name": "Manganese glycerophosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1319-70-6",
+        "name": "Potassium glycerophosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9004-53-9",
+        "name": "Dextrins",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9004-53-9",
+        "name": "Corn dextrins (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9042-08-4",
+        "name": "Rennet",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9001-73-4",
+        "name": "Papain",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "3632-91-5",
+        "name": "Magnesium gluconate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "299-27-4",
+        "name": "Potassium gluconate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "527-07-1",
+        "name": "Sodium gluconate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "4468-02-4",
+        "name": "Zinc gluconate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "4075-81-4",
+        "name": "Calcium propionate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "123-28-4",
+        "name": "Dilauryl thiodipropionate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "79-09-4",
+        "name": "Propionic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "137-40-6",
+        "name": "Sodium propionate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "111-17-1",
+        "name": "Thiodipropionic acid",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "124-04-9",
+        "name": "Adipic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "56645-02-4",
+        "name": "Pectin, amidated",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9000-69-5",
+        "name": "Pectin, high ester",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": null,
+        "name": "Pectin, low acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9005-59-8",
+        "name": "Pectinates",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9046-40-6",
+        "name": "Pectinic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "64-19-7",
+        "name": "Acetic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977127-84-6",
+        "name": "Sodium acetate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "126-96-5",
+        "name": "Sodium diacetate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9004-54-0",
+        "name": "Dextran",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7632-50-0",
+        "name": "Ammonium citrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "813-94-5",
+        "name": "Calcium citrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "77-92-9",
+        "name": "Citric acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "39413-05-3",
+        "name": "Isopropyl citrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "6100-05-6",
+        "name": "Potassium citrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "68-04-2",
+        "name": "Sodium citrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1337-33-3",
+        "name": "Stearyl citrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "77-93-0",
+        "name": "Triethyl citrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1310-58-3",
+        "name": "Potassium hydroxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1310-73-2",
+        "name": "Sodium hydroxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "143-19-1",
+        "name": "Sodium oleate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "408-35-5",
+        "name": "Sodium palmitate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977000-79-5",
+        "name": "Corn silk",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "140-88-5",
+        "name": "Ethyl acrylate, monomeric (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9003-32-1",
+        "name": "Ethyl acrylate, polymeric (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "96-33-3",
+        "name": "Methyl acrylate, monomeric (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9003-21-8",
+        "name": "Methyl acrylate, polymeric (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "58-08-2",
+        "name": "Caffeine",
+        "scogs_conclusion": null
+    },
+    {
+        "cas_id": "1302-78-9",
+        "name": "Bentonite",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1332-58-7",
+        "name": "Clay (kaolin) (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "61789-99-9",
+        "name": "Lard (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8016-28-2",
+        "name": "Lard oil (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "58-85-5",
+        "name": "Biotin",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "137-08-6",
+        "name": "D- or DL- Calcium pantothenate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "81-13-0",
+        "name": "D-Pantothenyl alcohol",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "867-81-2",
+        "name": "D- or DL- Sodium pantothenate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "431-03-8",
+        "name": "Diacetyl",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977019-27-4",
+        "name": "Starter distillate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "50-14-6",
+        "name": "Vitamin D2 (ergocalciferol)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "67-97-0",
+        "name": "Vitamin D3 (cholecalciferol)",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9005-43-0",
+        "name": "Calcium caseinate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9000-71-9",
+        "name": "Casein",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9005-46-3",
+        "name": "Sodium caseinate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7440-02-0",
+        "name": "Nickel (elemental)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7440-50-8",
+        "name": "Copper (cupric) gluconate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7758-98-7",
+        "name": "Copper (cupric) sulfate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7681-65-4",
+        "name": "Cuprous iodide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7647-01-0",
+        "name": "Hydrochloric acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977076-84-8",
+        "name": "Soy protein isolate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7447-40-7",
+        "name": "Potassium chloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7647-14-5",
+        "name": "Sodium chloride",
+        "scogs_conclusion": null
+    },
+    {
+        "cas_id": "57-13-6",
+        "name": "Urea",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "68-19-9",
+        "name": "Vitamin B12 (cyanocobalamin)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "67-03-8",
+        "name": "Thiamine hydrochloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "532-43-4",
+        "name": "Thiamine mononitrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7235-40-7",
+        "name": "Carotene (beta-carotene)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7440-59-7",
+        "name": "Helium gas",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7722-84-1",
+        "name": "Hydrogen peroxide",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "83-88-5",
+        "name": "Riboflavin",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "146-17-8",
+        "name": "Riboflavin-5'-phosphate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977000-09-1",
+        "name": "Arrowroot Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977050-51-3",
+        "name": "Cornstarch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977050-51-3",
+        "name": "High Amylose Cornstarch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977027-92-1",
+        "name": "Milo Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977000-07-9",
+        "name": "Potato starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977050-93-3",
+        "name": "Pregelatinized starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977000-08-0",
+        "name": "Rice Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977002-81-5",
+        "name": "Tapioca Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977050-52-4",
+        "name": "Waxy Maize Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977052-26-8",
+        "name": "Wheat Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "9049-76-7",
+        "name": "Hydroxypropyl Starch",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "68412-86-2",
+        "name": "Hydroxypropyl Starch, oxidized",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "63798-35-6",
+        "name": "Acetylated Distarch Adipate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "977120-10-7",
+        "name": "Acetylated Distarch Oxypropanol",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "977043-57-4",
+        "name": "Distarch Oxypropanol",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "53123-84-5",
+        "name": "Acetylated Distarch Glycerol",
+        "scogs_conclusion": "4"
+    },
+    {
+        "cas_id": "58944-89-1",
+        "name": "Distarch Glycerol",
+        "scogs_conclusion": "4"
+    },
+    {
+        "cas_id": "59419-60-2",
+        "name": "Hydroxypropyl Distarch Glycerol",
+        "scogs_conclusion": "4"
+    },
+    {
+        "cas_id": "977043-59-6",
+        "name": "Succinyl Distarch Glycerol",
+        "scogs_conclusion": "4"
+    },
+    {
+        "cas_id": "977102-48-9",
+        "name": "Sodium Hydroxide Gelatinized Starch",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "65996-63-6",
+        "name": "Acid Modified Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977075-42-5",
+        "name": "Bleached Starch",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977170-89-0",
+        "name": "Starch, Sodium Hypochlorite oxidized",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "9045-28-7",
+        "name": "Starch Acetate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9087-61-0",
+        "name": "Starch Aluminum Octenyl Succinate",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "66829-29-6",
+        "name": "Starch Sodium Octenyl Succinate",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "37231-92-8",
+        "name": "Starch Sodium Succinate",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "55963-33-2",
+        "name": "Distarch Phosphate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "11120-02-8",
+        "name": "Monostarch Phosphate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "977043-58-5",
+        "name": "Phosphated Distarch Phosphate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "68130-14-3",
+        "name": "Acetylated Distarch Phosphate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "53124-00-8",
+        "name": "Hydroxypropyl Distarch Phosphate",
+        "scogs_conclusion": "3"
+    },
+    {
+        "cas_id": "814-80-2",
+        "name": "Calcium Lactate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "28305-25-1",
+        "name": "L(+)-calcium lactate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10326-41-7",
+        "name": "D(-)-Lactic acid",
+        "scogs_conclusion": null
+    },
+    {
+        "cas_id": "598-82-3",
+        "name": "Lactic acid",
+        "scogs_conclusion": null
+    },
+    {
+        "cas_id": "79-33-4",
+        "name": "L(+)-lactic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "124-38-9",
+        "name": "Carbon dioxide",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "68-26-8",
+        "name": "Vitamin A",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "127-47-9",
+        "name": "Vitamin A acetate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "79-81-2",
+        "name": "Vitamin A palmitate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "56-86-0",
+        "name": "L-Glutamic acid",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "138-15-8",
+        "name": "L-Glutamic acid hydrochloride",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "7558-63-6",
+        "name": "Monoammonium L-glutamate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "19473-49-5",
+        "name": "Monopotassium L-glutamate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "142-47-2",
+        "name": "Monosodium L-glutamate",
+        "scogs_conclusion": "2"
+    },
+    {
+        "cas_id": "9000-71-9",
+        "name": "Enzymatically hydrolyzed casein",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": null,
+        "name": "Acid hydrolyzed proteins",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": null,
+        "name": "Enzymatically hydrolyzed protein",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8031-68-3",
+        "name": "Soy sauces",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "977046-75-5",
+        "name": "Yeast autolyzates",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8006-40-4",
+        "name": "Beeswax (yellow or white)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8001-39-6",
+        "name": "Japan wax (packaging)",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Iron - Report on Clinical Research Protocols to Elucidate The Possible Hazards of Increased Iron Enrichment of Cereal Products",
+        "scogs_conclusion": null
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Iron - Report on Bioavailability and Utilization of Iron",
+        "scogs_conclusion": null
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Dietary Iron",
+        "scogs_conclusion": null
+    },
+    {
+        "cas_id": "65-85-0",
+        "name": "Benzoic Acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "532-32-1",
+        "name": "Sodium Benzoate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1309-37-1",
+        "name": "Ferric oxide",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "10045-87-1",
+        "name": "Ferric sodium pyrophosphate",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "977009-72-5",
+        "name": "Iron peptonate",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "977125-47-5",
+        "name": "Iron polyvinylpyrrolidone",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "15708-41-5",
+        "name": "Sodium ferric EDTA",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "1332-96-3",
+        "name": "Sodium ferricitropyrophosphate",
+        "scogs_conclusion": "5"
+    },
+    {
+        "cas_id": "868-14-4",
+        "name": "L(+)-potassium acid tartrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "304-59-6",
+        "name": "L(+)-sodium potassium tartrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "868-18-8",
+        "name": "L(+)-sodium tartrate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "87-69-4",
+        "name": "L(+)-tartaric acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "50-81-7",
+        "name": "L-Ascorbic acid",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "137-66-6",
+        "name": "Ascorbyl palmitate (palmitoyl L-ascorbic)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "5743-28-2",
+        "name": "Calcium L-ascorbate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "89-65-6",
+        "name": "Erythorbic acid (D-isoascorbic acid)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "6381-77-7",
+        "name": "Sodium erythorbate (sodium D-isoascorbate)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "134-03-2",
+        "name": "Sodium L-ascorbate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "8002-43-5",
+        "name": "Lecithin",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "92128-87-5",
+        "name": "Lecithin, hydrogen peroxide bleached",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "59-67-6",
+        "name": "Niacin (nicotinic acid)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "98-92-0",
+        "name": "Niacinamide (nicotinamide)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "65-23-6",
+        "name": "Pyridoxine",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "58-56-0",
+        "name": "Pyridoxine hydrochloride",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7705-08-0",
+        "name": "Ferric chloride (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1309-37-1",
+        "name": "Ferric oxide (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "10028-22-5",
+        "name": "Ferric sulfate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7720-78-7",
+        "name": "Ferrous sulfate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "6535-20-2",
+        "name": "Iron caprylate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7779-63-7",
+        "name": "Iron linoleate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "1332-37-2",
+        "name": "Iron oxides (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "61788-81-6",
+        "name": "Iron tallate (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "7439-89-6",
+        "name": "Iron, elemental (packaging)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "57-06-7",
+        "name": "Mustard and Oil of Mustard (Brown and Yellow)",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "57-06-7",
+        "name": "Allyl isothiocyanate",
+        "scogs_conclusion": "1"
+    },
+    {
+        "cas_id": "2086-86-4",
+        "name": "p-Hydroxybenzyl isothiocyanate",
+        "scogs_conclusion": "1"
+    }
+]

@@ -1,0 +1,1136 @@
+{
+  "items": [
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other alcoholic drinks including mixtures of alcoholic drinks with non-alcoholic drinks and spirits with less than 15 % of alcohol and",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.8",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.8",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.8"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Sauces",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.6",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.6"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed eggs and egg products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "10.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "10.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-10.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Table Top Sweeteners",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Foods intended for particular nutritional uses as defined by Directive 2009/39/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food supplements supplied in a solid form including capsules and tablets and similar forms, excluding chewable forms",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "17.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "17.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unripened cheese excluding products falling in category 16",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.7.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.7.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Jam, jellies and marmalades and sweetened chestnut puree as defined by Directive 2001/113/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "04.2.5.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "04.2.5.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dehydrated milk as defined by Directive 2001/114/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Frozen fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.1.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.1.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Table Top Sweeteners in liquid form",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11.4.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11.4.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fat and oil emulsions mainly of type water-in-oil",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "2.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "2.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Follow-on formulae as defined by Directive 2006/141/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Beer and malt beverages",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Meat",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "All categories of foods",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "0",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "0",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-0"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Foods suitable for people intolerant to gluten as defined by Regulation (EC) No 41/2009",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dry pasta",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.4.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.4.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Starches",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.2.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.2.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.2.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed nuts",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "15.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "15.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-15.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed potato products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.2.6",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.2.6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.6"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fish roe",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "9.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "9.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Honey as defined in Directive 2001/110/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Alcoholic beverages, including alcohol-free and low-alcohol counterparts",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Table Top Sweeteners in powder form",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11.4.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11.4.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Traditionally cured meat products with specific provisions concerning nitrites and nitrates",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.2.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.2.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food supplements supplied in a liquid form",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "17.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "17.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other similar fruit or vegetable spreads",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "04.2.5.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "04.2.5.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Cream and cream powder",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.6",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Salads and savoury based sandwich spreads",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.7",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.7",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.7"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Vegetable oil pan spray",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "2.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "2.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Whole, broken, or flaked grain",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Aromatised wines",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.7.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.7.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dairy products and analogues",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dietary foods for weight control diets intended to replace total daily food intake or an individual meal (the whole or part of the total daily diet)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fish and fisheries products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "9",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "9",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Salts, spices, soups, sauces, salads and protein products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fresh pre-cooked pasta",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.4.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.4.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Potato-, cereal-, flour- or starch-based snacks",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "15.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "15.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-15.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed cereal-based foods and baby foods for infants and young children as defined by Directive 2006/125/EC ",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fruit and vegetable preparations, excluding products covered by 5.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.2.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.2.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Non-alcoholic beverages",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Batters",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.6",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.6"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Spirit drinks as defined in Regulation (EC) No 110/2008",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.6",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.6"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other sugars and syrups",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Yeast and yeast products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.8",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.8",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.8"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Cheese and cheese products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.7",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.7",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food flavourings",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/description": "AUTHORISED ADDITIVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE<br />See Regulation (EU) No 1130/2011",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "21",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "21",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-21"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Edible cheese rind",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.7.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.7.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed foods not covered by categories 1 to 17, excluding foods for infants and young children",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "18",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "18",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-18"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Coffee, tea, herbal and fruit infusions, chicory; tea, herbal and fruit infusions and chicory extracts; tea, plant, fruit and cereal preparations for infusions, as well as mixes and instant mixes of these products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unprocessed fish and fisheries products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "9.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "9.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other foods for young children",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dietary foods for babies and young children for special medical purposes as defined in Directive 1999/21/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/description": "The additives of categories 13.1.2 and 13.1.3 are applicable, except for E 270, E 333, E 341",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1.5.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1.5.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.5.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unflavoured pasteurised cream (excluding reduced fat creams)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.6.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.6.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Sugars, syrups, honey and table-top sweeteners",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Cereals and cereal products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fresh pasta",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.4.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.4.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unprocessed eggs",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "10.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "10.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-10.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unprocessed fish",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "9.1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "9.1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Pre-cooked or processed cereals",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.7",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.7",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.7"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Sugars and syrups as defined by Directive 2001/111/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Jam, jellies and marmalades and similar products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.2.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.2.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Aromatised wine-based products as defined by Regulation (EEC) No 1601/91",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.7",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.7",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food enzymes",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/description": "AUTHORISED ADDITVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE<br />See Regulation (EU) No 1130/2011",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "20",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "20",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-20"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Protein products, excluding products covered in category 1.8",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.9",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.9",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.9"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dairy analogues, including beverage whiteners",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.8",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.8",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.8"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other traditionally cured products. (Immersion and dry cured processes used in combination or where nitrite and/or nitrate is included in a compound product or where the curing solution is injected into the product prior to cooking)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "08.2.4.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "08.2.4.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-08.2.4.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Extra jam and extra jelly as defined by Directive 2001/113/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "04.2.5.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "04.2.5.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Ripened cheese",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.7.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.7.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food additives added in nutrients intended to be used in foodstuffs for infants and young children listed in point 13.1 of Part E of Annex II",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "22.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "22.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-22.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food additives",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/description": "AUTHORISED ADDITIVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE<br />See Regulation (EU) No 1130/2011",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "19",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "19",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-19"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Salt and salt substitutes",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dietary foods for infants and young children for special medical purposes as defined by Directive 1999/21/EC and special formulae for infants",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unflavoured live fermented cream products and substitute products with a fat content of less than 20%",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.6.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.6.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed fish and fishery products including mollusks and crustaceans",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "9.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "9.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dietary foods for infants for special medical purposes and special formulae for infants",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1.5.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1.5.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.5.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Eggs and egg products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "10",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "10",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-10"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unprocessed molluscs and crustaceans",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "9.1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "9.1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-9.1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Bakery wares",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "7",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "7",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other creams",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.6.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.6.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.6.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unflavoured pasteurised and sterilised (including UHT) milk",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Pasta",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fruit and vegetables in vinegar, oil, or brine",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.2.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.2.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Decorations, coatings and fillings, except fruit based fillings covered by category 4.2.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "5.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "5.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Herbs and spices",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.2.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.2.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.2.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fruit nectars as defined by Directive 2001/112/EC and vegetable nectars and similar products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Desserts excluding products covered in category 1, 3 and 4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "16",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "16",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-16"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Heat treated processed meat",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.2.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.2.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed cheese",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.7.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.7.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Herbs, spices, seasonings",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Mead",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unprocessed meat",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Nutrients",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/description": "AUTHORISED ADDITIVES HAVE NOT YET BEEN INTRODUCED IN THE DATABASE<br />See Regulation (EU) No 1130/2011",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "22",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "22",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-22"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Canned or bottled fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.2.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.2.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unflavoured fermented milk products, including natural unflavoured buttermilk (excluding sterilised buttermilk) non heat treated after fermentation",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Noodles",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Pain courant francais; Friss b�zakeny�r, feh�r �s f�lbarna kenyerek",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "7.1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "7.1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Confectionery",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Chewing gum",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "5.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "5.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1.5.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1.5.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.5.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Flavoured drinks",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Vinegars",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Casings and coatings and decorations for meat",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.2.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.2.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fruit wine and made wine",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food supplements as defined in Directive 2002/46/EC excluding food supplements for infants and young children",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "17",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "17",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Whey cheese",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.7.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.7.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Butter and concentrated butter and butter oil and anhydrous milkfat",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "2.2.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "2.2.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.2.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Salt",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Processed meat",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food supplements supplied in a syrup-type or chewable form",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "17.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "17.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-17.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fruit and vegetable preparations excluding compote",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "04.2.4.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "04.2.4.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.4.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Bread prepared solely with the following ingredients: wheat flour, water, yeast or leaven,salt",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "7.1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "7.1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Flours and starches",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dietary foods for special medical purposes defined in Directive 1999/21/EC (excluding products from food category 13.1.5)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Table Top Sweeteners in tablets",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "11.4.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "11.4.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-11.4.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fine bakery wares",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "7.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "7.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unflavoured fermented milk products, heat-treated after fermentation",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Nut butters and nut spreads",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "04.2.5.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "04.2.5.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.5.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Coffee, coffee extracts",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1.5.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1.5.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.5.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fats and oils and fat and oil emulsions",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Compote, excluding products covered by category 16",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "04.2.4.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "04.2.4.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-04.2.4.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other confectionery including breath refreshening microsweets",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "5.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "5.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Entire fresh fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Potato gnocchi",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.4.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.4.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Aromatised wine-based drinks",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.7.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.7.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unprocessed meat other than meat preparations as defined by Regulation (EC) No 853/2004",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Cider and perry",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Water, including natural mineral water as defined in Directive 2009/54/EC and spring water and all other bottled or packed waters",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Beverages",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Traditional immersion cured products (Meat products cured by immersion in a curing solution containing nitrites and/or nitrates, salt and other components)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "08.2.4.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "08.2.4.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-08.2.4.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Mustard",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Non heat treated processed meat",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.2.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.2.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.2.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Food additives in nutrients except nutrients intended to be used in foodstuffs for infants and young children listed in point 13.1 of Part E of Annex II",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "22.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "22.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-22.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Salt substitutes",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Other fat and oil emulsions including spreads as defined by Council Regulation (EC) No 1234/2007 and liquid emulsions",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "2.2.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "2.2.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.2.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Breakfast cereals",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Dried fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.2.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.2.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.2.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Flavoured fermented milk products including heat treated products",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.4",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.4",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.4"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Foods for infants and young children",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Bread and rolls",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "7.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "7.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-7.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Edible ices",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fruit juices as defined by Directive 2001/112/EC and vegetable juices",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fillings of stuffed pasta (ravioli and similar)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.4.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.4.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.4.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Cocoa and Chocolate products as covered by Directive 2000/36/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "5.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "5.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-5.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Peeled, cut and shredded fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Unprocessed fruit and vegetables",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "4.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "4.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-4.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Seasonings and condiments",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.2.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.2.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.2.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Flours and other milled products and starches",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "6.2.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "6.2.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-6.2.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Cheese products (excluding products falling in category 16)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "1.7.6",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "1.7.6",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-1.7.6"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Aromatised wine-product cocktails",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.7.3",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.7.3",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.7.3"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Traditional dry cured products. (Dry curing process involves dry application of curing mixture containing nitrites and/or nitrates, salt and other components to the surface of the meat followed by a period of stabilisation/maturation).",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "08.2.4.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "08.2.4.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-08.2.4.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Wine and other products defined by Regulation (EEC) No 1234/2007, and alcohol free counterparts",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "14.2.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "14.2.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-14.2.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Infant formulae as defined by Directive 2006/141/EC",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "13.1.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "13.1.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-13.1.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Fats and oils essentially free from water (excluding anhydrous milkfat)",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "2.1",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "2.1",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-2.1"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Soups and broths",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "12.5",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "12.5",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-12.5"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Ready-to-eat savouries and snacks",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "15",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "15",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-15"
+    },
+    {
+      "@context": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/Category",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryName": "Meat preparations as defined by Regulation (EC) No 853/2004",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/id": "8.1.2",
+      "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/categoryCode": "8.1.2",
+      "@subject": "http://ec.europa.eu/semantic_webgate/dataset/additives/resource/category-8.1.2"
+    },
+    {
+      "@context": "http://ec.europa.eu/geninfo/LegalNotices",
+      "http://www.w3.org/2000/01/rdf-schema#label": {
+        "en": "The information and data on this site is subject to a disclaimer, a copyright notice rules related to personal data protection and cookies.  For further information:   http://ec.europa.eu/geninfo/legal_notices_en.htm"
+      },
+      "@subject": "http://ec.europa.eu/geninfo/legal_notices_en.htm"
+    }
+  ]
+}
