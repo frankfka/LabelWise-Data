@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-26d49e9cd1d82010791",applicationID:"529647296"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/images/favicon.ico" />
+	<meta name="msapplication-TileColor" content="#A51C30">
+	<meta name="msapplication-TileImage" content="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/images/ms/ms-tile-icon.png">
+	<link rel="apple-touch-icon" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/images/ios/touch-icon-ipad-retina.png">
+	<meta property="fb:app_id" content="1019010578192159" />
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Added Sugar in the Diet | The Nutrition Source | Harvard T.H. Chan School of Public Health</title>
+<link rel='dns-prefetch' href='//www.hsph.harvard.edu' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Nutrition Source &raquo; Feed" href="https://www.hsph.harvard.edu/nutritionsource/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hsph.harvard.edu\/nutritionsource\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='hsph-protected-file-front-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-harvard-key/assets/css/hsph-pin-file-protect.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph_page_elements_styles-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-page-elements/assets/css/contentbox.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-plugin-tagging-topics-pages-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-tagging/assets/css/topics.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-table-sortable-css-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-tinymce-tweaks//assets/css/hsph-table-sortable.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-includes/css/dashicons.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-ui-shortcodes-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-ui-shortcodes/assets/css/hsph-ui-shortcodes.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ns-recipes-shortcodes-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-nutrition-source-recipe/assets/css/ns-recipes.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph_hep_shortcode_styles-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-nutrition-source/assets/css/hsph-plugin-nutrition-source.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/style.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-alternate-landing-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016-child-alternate-landing/style.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-people-research-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/css/people-research.css?ver=1.3.3' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='hsph-ie-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/css/ie9.css?ver=1.3.3' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='hsph-ie8-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/css/ie8.css?ver=1.3.3' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='sharedaddy-custom-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-sharing-buttons/sharing.css?ver=8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/css/jetpack.css?ver=8.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-ui-shortcodes/assets/js/hsph-ui-shortcodes.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/js/typekit.js?ver=1.3.3'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://www.hsph.harvard.edu/nutritionsource/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hsph.harvard.edu/nutritionsource/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hsph.harvard.edu/nutritionsource/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/" />
+<link rel='shortlink' href='https://www.hsph.harvard.edu/nutritionsource/?p=6397' />
+<link rel="alternate" type="application/json+oembed" href="https://www.hsph.harvard.edu/nutritionsource/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnutritionsource%2Fcarbohydrates%2Fadded-sugar-in-the-diet%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.hsph.harvard.edu/nutritionsource/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnutritionsource%2Fcarbohydrates%2Fadded-sugar-in-the-diet%2F&#038;format=xml" />
+<!-- Google Analytics -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			
+	ga( 'create', 'UA-16396394-1', 'hsph.harvard.edu', 'trackern1');
+	ga( 'trackern1.require', 'displayfeatures');
+	ga( 'trackern1.require', 'linkid');
+	ga( 'trackern1.set', 'dimension1', 'signed_out' );
+	ga( 'trackern1.set', 'dimension2', 'none' );
+	ga( 'trackern1.send', 'pageview');
+
+
+	ga( 'create', ' UA-44468534-1', 'hsph.harvard.edu', 'trackern2');
+	ga( 'trackern2.require', 'displayfeatures');
+	ga( 'trackern2.require', 'linkid');
+	ga( 'trackern2.set', 'dimension1', 'signed_out' );
+	ga( 'trackern2.set', 'dimension2', 'none' );
+	ga( 'trackern2.send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+		
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-XL6K');</script>
+<!-- End Google Tag Manager -->
+		
+		<meta http-equiv="content-language" content="en-us" />
+		<meta name="copyright" content="Copyright (c) 2020 The President and Fellows of Harvard College" />
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Added Sugar in the Diet" />
+<meta property="og:url" content="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/" />
+<meta property="og:description" content="Your body doesn’t need to get any carbohydrate from added sugar. That’s why the Healthy Eating Pyramid says sugary drinks and sweets should be used sparingly, if at all, and the Healthy Eating Plat…" />
+<meta property="article:published_time" content="2013-08-05T17:14:38+00:00" />
+<meta property="article:modified_time" content="2019-01-02T18:02:34+00:00" />
+<meta property="og:site_name" content="The Nutrition Source" />
+<meta property="og:image" content="https://cdn1.sph.harvard.edu/social-share.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Added Sugar in the Diet" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@harvardchansph" />
+
+<!-- End Jetpack Open Graph Tags -->
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+/*Recipe edits to be merged with ns template*/
+
+@media screen and (min-width: 750px) {
+
+.ns-recipe {
+    display: flex;
+    width: unset;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    padding-bottom: 1.5em;
+    border-bottom: 4px solid #f1efeb;
+    padding-top: 1.5em;
+    border-top: 4px solid #f1efeb;
+    margin: 4em 4em;
+}
+
+}
+
+.recipe-ingredients ul li {
+    margin: 0 0 0.5em 0;
+    list-style: none;
+    font-size: 90%;
+}
+
+.recipe-description ol li {
+    margin-bottom: 2.5em;
+}
+
+.recipe-description {
+    margin-top: 0.35em;
+}
+body.page-id-13963 .ui-accordion {
+    margin-bottom: 0;
+}
+body.page-id-13963 .entry-content br {
+    display: none;
+}
+body.page-id-13963 .ns-recipe {
+    margin-top: 0;
+    margin-bottom: 0;
+    border: none;
+}
+body.page-id-13963 .ui-accordion-content > p {
+    display: none;
+}
+
+
+
+/*expandable region spacing fix*/
+
+.expandable {
+    margin-bottom: 1.5em;
+}
+
+.page-id-13963 .ui-accordion, .ui-tabs, .page-id-13963 .expandable {
+    margin-bottom: 2px;
+}
+
+.page-id-15189 .recipe-ingredients {
+    margin-top: 0;
+}
+
+.page-id-15189 .ns-recipe {;
+    border-bottom: none;
+    border-top: none;
+}
+
+@media screen and (min-width: 750px) {
+.page-id-15189 .ns-recipe {
+    margin-top: 0;
+    margin-bottom: 1em;
+    padding-bottom: 3em;
+    border-bottom: none;
+    padding-top: 1.5em;
+    border-top: none;
+    margin: 0 1em;
+}
+}
+
+
+.ns-recipe .recipe-left {
+    display: inline-block !important;
+}
+
+.ns-recipe .recipe-left {
+    display: inline-block !important;
+}
+		</style>
+		<style id="kirki-inline-styles"></style></head>
+
+<body class="page-template-default page page-id-6397 page-child parent-pageid-3187">
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '1019010578192159',
+			xfbml      : true,
+			version    : 'v2.7'
+		});
+		FB.AppEvents.logPageView();
+	};
+
+	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="wrapper" id="wrapper">
+	<div id="navbar" class="navbar">
+		<div id="nav-utility-menu" class="nav-utility-menu"></div>
+		<div id="nav-primary-menu" class="nav-primary-menu"></div>
+		<div id="nav-audience-menu" class="nav-audience-menu"></div>
+	</div>
+			<button id="main-menu-toggle" class="main-menu-toggle">Menu</button>
+		<button id="main-menu-caption" class="main-menu-caption"><span id="main-menu-caption-text" class="main-menu-caption-text">Close Menu</span></button>
+		<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="masthead" class="site-header" role="banner">
+			<div id="audience-bar">
+									<div id="site-audience-menu" class="site-audience-menu">
+						<span class="information-for">Information For:</span>
+						<nav id="audience-navigation" class="audience-navigation" role="navigation" aria-label="Audience Menu">
+							<div class="menu-audience-menu-2016-container"><ul id="menu-audience-menu-2016" class="hsph-audience-menu"><li id="menu-item-111354113411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113411"><a href="/admissions">Prospective Students</a></li>
+<li id="menu-item-111354113412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113412"><a href="/current-students/">Current Students</a></li>
+<li id="menu-item-111354113413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113413"><a href="http://alumni.sph.harvard.edu">Alumni</a></li>
+<li id="menu-item-111354113414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113414"><a href="/faculty-staff">Faculty &#038; Staff</a></li>
+<li id="menu-item-111354113415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113415"><a href="/giving">Friends &#038; Supporters</a></li>
+</ul></div>						</nav><!-- .main-navigation -->
+					</div><!-- .site-header-menu -->
+								<div id="index-search">
+											<div id="site-atoz-menu" class="site-atoz-menu">
+							<nav id="atoz-navigation" class="atoz-navigation" role="navigation" aria-label="A to Z Menu">
+								<div class="menu-a-to-z-container"><ul id="menu-a-to-z" class="hsph-atoz-menu"><li id="menu-item-111354113481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113481"><a href="https://www.hsph.harvard.edu/atoz/">A to Z index</a></li>
+</ul></div>							</nav><!-- .main-navigation -->
+
+						</div><!-- .site-header-menu -->
+										<div id="search">
+						<form role="search" method="get" class="search-form" action="/search">
+							<label>
+								<span class="screen-reader-text">Search for:</span>
+								<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="q" id="q" title="Search for:" />
+							</label>
+							<button type="submit" value="Search" alt="Search" class="search-submit"> </button>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="site-header-main">
+				<div class="site-branding">
+					<div class="site-title"><a href="https://www.hsph.harvard.edu/" rel="home">Harvard T.H. Chan School of Public Health</a></div>
+				</div><!-- .site-branding -->
+									<div id="site-utility-menu" class="site-utility-menu">
+						<nav id="utility-navigation" class="utility-navigation" role="navigation" aria-label="Utility Menu">
+							<div  data-customize-partial-id="nav_menu_instance[62686e06205938a34b7429104aaec98b]" data-customize-partial-type="nav_menu_instance" data-customize-partial-placement-context="{&quot;after&quot;:&quot;&quot;,&quot;before&quot;:&quot;&quot;,&quot;can_partial_refresh&quot;:true,&quot;container&quot;:&quot;div&quot;,&quot;container_class&quot;:&quot;&quot;,&quot;container_id&quot;:&quot;&quot;,&quot;depth&quot;:0,&quot;echo&quot;:true,&quot;fallback_cb&quot;:false,&quot;item_spacing&quot;:&quot;preserve&quot;,&quot;items_wrap&quot;:&quot;&lt;ul id=\&quot;%1$s\&quot; class=\&quot;%2$s\&quot;&gt;%3$s&lt;\/ul&gt;&quot;,&quot;link_after&quot;:&quot;&quot;,&quot;link_before&quot;:&quot;&quot;,&quot;menu&quot;:&quot;&quot;,&quot;menu_class&quot;:&quot;hsph-utility-menu&quot;,&quot;menu_id&quot;:&quot;&quot;,&quot;theme_location&quot;:&quot;hsph-utility&quot;,&quot;walker&quot;:&quot;&quot;,&quot;args_hmac&quot;:&quot;62686e06205938a34b7429104aaec98b&quot;}" class="menu-quicklinks-menu-2016-container"><ul id="menu-quicklinks-menu-2016" class="hsph-utility-menu"><li id="menu-item-111354113419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113419"><a href="/email/">Email</a></li>
+<li id="menu-item-111354113417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113417"><a href="/people/">People</a></li>
+<li id="menu-item-111354113422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113422"><a href="/academics/">Departments</a></li>
+<li id="menu-item-111354113416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113416"><a href="http://ems.sph.harvard.edu/MasterCalendar/MasterCalendar.aspx">Calendar</a></li>
+<li id="menu-item-111354113418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113418"><a href="/employment/">Careers</a></li>
+<li id="menu-item-111354113420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113420"><a href="https://www.hsph.harvard.edu/giving/">Give</a></li>
+<li id="menu-item-111354122205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354122205"><a href="https://www.hsph.harvard.edu/frontiers/">Frontiers</a></li>
+<li id="menu-item-111354113421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113421"><a title="Manage Student Information" href="https://my.harvard.edu">my.harvard</a></li>
+</ul></div>						</nav><!-- .main-navigation -->
+
+					</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+							<div id="site-header-menu" class="site-header-menu">
+					<!-- Start Imodules Primary Nav Scrape -->
+					<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-main-navigation-2016-container"><ul id="menu-main-navigation-2016" class="hsph-primary-menu"><li id="menu-item-111354113405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113405"><a href="/about">About</a></li>
+<li id="menu-item-111354113406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113406"><a href="/faculty-research">Faculty &#038; Research</a></li>
+<li id="menu-item-111354113407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113407"><a href="/admissions">Admissions &#038; Aid</a></li>
+<li id="menu-item-111354113408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113408"><a href="/departments">Academics</a></li>
+<li id="menu-item-111354113409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113409"><a href="/ecpe/">Executive/Continuing Ed</a></li>
+<li id="menu-item-111354113410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113410"><a href="/news">News</a></li>
+</ul></div>					</nav><!-- .main-navigation -->
+					<!-- End Imodules Primary Nav Scrape -->
+				</div><!-- .site-header-menu -->
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+					<div class="page-header">
+<div class="page-title">The Nutrition Source</div>			</div><!-- .entry-header -->
+<div id="breadcrumbs"><!-- Breadcrumb NavXT 6.4.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Harvard T.H. Chan School of Public Health." href="https://www.hsph.harvard.edu" class="main-home" ><span property="name">Harvard T.H. Chan School of Public Health</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to The Nutrition Source." href="https://www.hsph.harvard.edu/nutritionsource" class="home" ><span property="name">The Nutrition Source</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Carbohydrates." href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/" class="post post-page" ><span property="name">Carbohydrates</span></a><meta property="position" content="3"></span> &gt; <span class="post post-page current-item">Added Sugar in the Diet</span></div>
+<div id="primary" class="content-area">
+	
+<div id="left-nav" class="left-nav" role="navigation">
+	<div class="section-title">
+		<a href="https://www.hsph.harvard.edu/nutritionsource/" rel="home">The Nutrition Source</a>
+		<button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">expand child menu</span></button>
+	</div>
+	<div class="left-collapse-container">
+		<div id="left-search">
+		
+			<form role="search" method="get" class="search-form" action="https://www.hsph.harvard.edu/nutritionsource/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search this section" value="" name="s" title="Search for:" />
+				</label>
+				<button type="submit" value="Search" class="search-submit"> </button>
+			</form>
+					</div>
+					<div id="site-left-menu" class="site-left-menu">
+				<nav id="site-left-nav" class="left-navigation" role="navigation" aria-label="Section Menu">
+					<div class="menu-nut_menu-container"><ul id="menu-nut_menu" class="hsph-lefthand-menu"><li id="menu-item-3541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3541"><a href="https://www.hsph.harvard.edu/nutritionsource/">Home</a></li>
+<li id="menu-item-7634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7634"><a href="https://www.hsph.harvard.edu/nutritionsource/nutrition-news/">Nutrition News</a></li>
+<li id="menu-item-3554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3554"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/">What Should I Eat?</a>
+<ul class="sub-menu">
+	<li id="menu-item-3553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3553"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/">Healthy Eating Plate &#038; Pyramid</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10217"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/translations/">Healthy Eating Plate Translations</a></li>
+		<li id="menu-item-12175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12175"><a href="https://www.hsph.harvard.edu/nutritionsource/kids-healthy-eating-plate/">Kid&#8217;s Healthy Eating Plate</a></li>
+	</ul>
+</li>
+	<li id="menu-item-9002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9002"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/whole-grains/">Whole Grains</a></li>
+	<li id="menu-item-4462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4462"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/">Protein</a></li>
+	<li id="menu-item-4465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4465"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/">Vegetables and Fruits</a></li>
+	<li id="menu-item-11106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11106"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/">Fats and Cholesterol</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9642"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/types-of-fat/">Types of Fat</a></li>
+		<li id="menu-item-9641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9641"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/cholesterol/">Cholesterol</a></li>
+		<li id="menu-item-9640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9640"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/dietary-fat-and-disease/">Dietary Fat and Disease</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4466"><a href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/calcium-and-milk/">Calcium and Milk</a></li>
+	<li id="menu-item-4468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4468"><a href="https://www.hsph.harvard.edu/nutritionsource/vitamins/">Vitamins and Minerals</a></li>
+</ul>
+</li>
+<li id="menu-item-8264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8264"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/">Healthy Drinks</a>
+<ul class="sub-menu">
+	<li id="menu-item-16428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16428"><a href="https://www.hsph.harvard.edu/nutritionsource/water/">Water</a></li>
+	<li id="menu-item-8270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8270"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/other-healthy-beverage-options/">Other Healthy Beverage Options</a></li>
+	<li id="menu-item-8269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8269"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/drinks-to-consume-in-moderation/">Drinks to Consume in Moderation</a></li>
+	<li id="menu-item-8268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8268"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/sugary-drinks/">Sugary Drinks</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16408"><a href="https://www.hsph.harvard.edu/nutritionsource/sports-drinks/">Sports Drinks</a></li>
+		<li id="menu-item-16409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16409"><a href="https://www.hsph.harvard.edu/nutritionsource/energy-drinks/">Energy Drinks</a></li>
+		<li id="menu-item-8265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8265"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/beverages-public-health-concerns/">Public Health Concerns: Sugary Drinks</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8266"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/artificial-sweeteners/">Low-Calorie Sweeteners</a></li>
+</ul>
+</li>
+<li id="menu-item-6935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6935"><a href="https://www.hsph.harvard.edu/nutritionsource/salt-and-sodium/">Salt and Sodium</a>
+<ul class="sub-menu">
+	<li id="menu-item-6933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6933"><a href="https://www.hsph.harvard.edu/nutritionsource/salt-and-sodium/take-action-on-salt/">Take Action: How to Reduce Your Intake</a></li>
+	<li id="menu-item-6932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6932"><a href="https://www.hsph.harvard.edu/nutritionsource/salt-and-sodium/sodium-public-health-concerns/">Public Health Concerns</a></li>
+</ul>
+</li>
+<li id="menu-item-4461" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-4461"><a href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/">Carbohydrates</a>
+<ul class="sub-menu">
+	<li id="menu-item-7903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7903"><a href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/carbohydrates-and-blood-sugar/">Carbohydrates and Blood Sugar</a></li>
+	<li id="menu-item-4469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4469"><a href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/fiber/">Fiber</a></li>
+	<li id="menu-item-7904" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6397 current_page_item menu-item-7904"><a href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/" aria-current="page">Added Sugar in the Diet</a></li>
+	<li id="menu-item-7905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7905"><a href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/low-carbohydrate-diets/">Low-Carbohydrate Diets</a></li>
+</ul>
+</li>
+<li id="menu-item-10728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10728"><a href="https://www.hsph.harvard.edu/nutritionsource/sustainability/">Sustainability</a>
+<ul class="sub-menu">
+	<li id="menu-item-15517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15517"><a href="https://www.hsph.harvard.edu/nutritionsource/sustainability/plate-and-planet/">Plate and the Planet</a></li>
+	<li id="menu-item-13353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13353"><a href="https://www.hsph.harvard.edu/nutritionsource/sustainability/food-waste/">Food Waste</a></li>
+</ul>
+</li>
+<li id="menu-item-3557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3557"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-weight/">Healthy Weight</a>
+<ul class="sub-menu">
+	<li id="menu-item-8863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8863"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-weight/measuring-fat/">Measuring Body Fat</a></li>
+	<li id="menu-item-8865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8865"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-weight/best-diet-quality-counts/">The Best Diet: Quality Counts</a></li>
+	<li id="menu-item-8864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8864"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-weight/healthy-dietary-styles/">Healthy Dietary Styles</a></li>
+	<li id="menu-item-14108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14108"><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-reviews/">Diet Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-3558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3558"><a href="https://www.hsph.harvard.edu/nutritionsource/staying-active/">Staying Active</a>
+<ul class="sub-menu">
+	<li id="menu-item-8866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8866"><a href="https://www.hsph.harvard.edu/nutritionsource/staying-active/active-communities/">Active Communities</a></li>
+</ul>
+</li>
+<li id="menu-item-9532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9532"><a href="https://www.hsph.harvard.edu/nutritionsource/disease-prevention/">Disease Prevention</a>
+<ul class="sub-menu">
+	<li id="menu-item-9531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9531"><a href="https://www.hsph.harvard.edu/nutritionsource/disease-prevention/cardiovascular-disease/">Heart Disease</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13225"><a href="https://www.hsph.harvard.edu/nutritionsource/disease-prevention/cardiovascular-disease/cvd-types/">Types</a></li>
+		<li id="menu-item-9530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9530"><a href="https://www.hsph.harvard.edu/nutritionsource/disease-prevention/cardiovascular-disease/cvd-risk-factors/">Risk Factors</a></li>
+		<li id="menu-item-9529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9529"><a href="https://www.hsph.harvard.edu/nutritionsource/disease-prevention/cardiovascular-disease/preventing-cvd/">Prevention</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3559"><a href="https://www.hsph.harvard.edu/nutritionsource/disease-prevention/diabetes-prevention/">Diabetes</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4490"><a href="https://www.hsph.harvard.edu/nutritionsource/disease-prevention/diabetes-prevention/preventing-diabetes-full-story/">Prevention</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3560"><a href="https://www.hsph.harvard.edu/nutritionsource/recipes-2/">Recipes</a>
+<ul class="sub-menu">
+	<li id="menu-item-4492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4492"><a href="https://www.hsph.harvard.edu/nutritionsource/recipes-2/home-cooking/">Home Cooking</a></li>
+	<li id="menu-item-3561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3561"><a href="https://www.hsph.harvard.edu/nutritionsource/recipes-2/food-service-recipes/healthy-food-service/">Food Service Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-14418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14418"><a href="https://www.hsph.harvard.edu/nutritionsource/food-features/">Food Features</a></li>
+<li id="menu-item-3565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3565"><a href="https://www.hsph.harvard.edu/nutritionsource/more/">Additional Resources</a></li>
+<li id="menu-item-3566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3566"><a href="https://www.hsph.harvard.edu/nutritionsource/about/">About</a></li>
+<li id="menu-item-6659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6659"><a href="https://www.hsph.harvard.edu/nutritionsource/frequently-asked-questions/">FAQ</a></li>
+<li id="menu-item-3567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3567"><a href="https://www.hsph.harvard.edu/nutritionsource/contact-us/">Contact</a></li>
+</ul></div>				</nav><!-- .main-navigation -->
+
+			</div><!-- .site-header-menu -->
+					</div><!-- .left-collapse-container -->
+</div><!-- .sidebar .widget-area -->
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-6397" class="post-6397 page type-page status-publish hentry">
+		<header class="entry-header">
+		<h1 class="entry-title">Added Sugar in the Diet</h1>	</header><!-- .entry-header -->
+
+		
+	<div class="entry-content">
+		<p>Your body doesn’t need to get any carbohydrate from added sugar. That’s why the Healthy Eating Pyramid says sugary drinks and sweets should be used sparingly, if at all, and the Healthy Eating Plate does not include foods with added sugars.</p>
+<blockquote><p><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/10/added-sugar.jpg"><img data-attachment-id="3702" data-permalink="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/added-sugar/" data-orig-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/10/added-sugar.jpg" data-orig-size="90,58" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="added-sugar" data-image-description="" data-medium-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/10/added-sugar.jpg" data-large-file="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/10/added-sugar.jpg" class="size-full wp-image-3702 alignleft" src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2012/10/added-sugar.jpg" alt="added-sugar" width="90" height="58" /></a><em>An important fact to keep in mind when reading nutrition labels:<br />
+</em><strong>4 grams of sugar = 1 teaspoon</strong><em><br />
+</em></p></blockquote>
+<p>The average American consumes 22 teaspoons of added sugar a day, which amounts to an extra 350 calories. (<a title="Johnson, 2009 #26" href="#ref27">27</a>) While we sometimes add sugar to food ourselves, most added sugar comes from processed and prepared foods.  Sugar-sweetened beverages and breakfast cereals are two of the most serious offenders.</p>
+<p>The American Heart Association (AHA) has recommended that Americans drastically cut back on added sugar to help slow the obesity and heart disease epidemics. (<a title="Johnson, 2009 #26" href="#ref27">27</a>)</p>
+<ul>
+<li>The AHA suggests an added-sugar limit of no more than 100 calories per day (about 6 teaspoons or 24 grams of sugar) for most women and no more than 150 calories per day (about 9 teaspoons or 36 grams of sugar) for most men.</li>
+<li>There’s no nutritional need or benefit that comes from eating added sugar. A good rule of thumb is to avoid products that have a lot of added sugar, including skipping foods that list “sugar” as the first or second ingredient. However, the growing use of alternative sweeteners can make it difficult to determine which ingredients count as sugar, because there are multiple sources of sugar with different names.</li>
+</ul>
+<p>By law, The Nutrition Facts Label must list the grams of sugar in each product. But some foods naturally contain sugar, while others get theirs from added sweeteners.</p>
+<h3>Sugar-sweetened beverages</h3>
+<p>Soft drinks are a prime source of extra calories that can contribute to weight gain and provide no nutritional benefits.  Studies indicate that liquid carbohydrates such as <a href="https://www.hsph.harvard.edu/nutritionsource/healthy-drinks/sugary-drinks/" target="_blank" rel="noopener">sugar-sweetened beverages</a> are less filling than the solid forms (<a title="Pan, 2011 #48" href="#ref28">28</a>)– causing people to continue to feel hungry after drinking them despite their high caloric value. They are coming under scrutiny for their contributions to the development of type 2 diabetes, heart disease, and other chronic conditions.</p>
+<ul>
+<li>The average can of sugar-sweetened soda or fruit punch provides about 150 calories, almost all of them from sugar – usually high-fructose corn syrup. That’s the equivalent of 10 teaspoons of table sugar.</li>
+<li>If you were to drink just one can of a sugar-sweetened soft drink every day, and not cut back on calories elsewhere, you could gain up to 15 pounds over three years. (31)</li>
+</ul>
+<h3>Cereals and other foods</h3>
+<p>Choosing whole, unprocessed breakfast foods – such as an apple, or a bowl of steel-cut or old fashioned oatmeal – that don’t have lengthy ingredient lists is a great way to avoid eating added sugars. Unfortunately, many common breakfast foods such as ready-to-eat breakfast cereals, cereal bars, instant oatmeal with added flavoring, and pastries can contain high amounts of added sugars.</p>
+<p>Some ingredient lists mask the amount of sugar in a product. To avoid having “sugar” as the first ingredient, food manufacturers may use multiple forms of sugar– each with a different name – and list each one individually on the nutrient label. By using this tactic, sugars are represented separately in smaller amounts, which makes it more difficult for consumers to determine how much overall sugar is in a product.</p>
+<ul>
+<li>So don’t be fooled – your body metabolizes all added sugars the same way; it doesn’t distinguish between “brown sugar” and “honey.” When reading a label, make sure you spot all sources of added sugars even if they’re not listed as the first few ingredients.</li>
+</ul>
+<p>Sweet treats can be enjoyed in moderation, but make sure you’re aware of added sugars elsewhere in your diet, such as breads, drinks and cereals.</p>
+<p>Industry-sponsored labeling programs can also be confusing. One such program, called Smart Choices, drew scrutiny from the U.S. Food and Drug Administration in 2009 for calling one popular cereal —which is 41 percent sugar—a “Smart Choice.” (The Smart Choices program has since been suspended.)</p>
+<h3>How to spot added sugar on food labels</h3>
+<p>Spotting added sugar on food labels can require some detective work. Historically, food and beverage manufacturers in the U.S. have been required to list a product’s total amount of sugar per serving on the Nutrition Facts Panel, but they didn&#8217;t need to disclose how much of that sugar is added versus naturally occurring. However, this is set to change with the rollout of the <a href="https://www.hsph.harvard.edu/nutritionsource/2016/05/20/updated-nutrition-facts-panel-makes-significant-progress-with-added-sugars-but-there-is-room-for-improvement/" target="_blank" rel="noopener">updated Panel</a>, which (by 2020 or 2021) will include a line disclosing “added sugars,” along with a corresponding 10 percent-Daily Value—representing a limit of 50 grams (roughly 12 teaspoons) of added sugar towards the daily 2,000 calories recommended for most adults. In the meantime, you’ll need to scan the ingredients list of a food or drink to find the added sugar. (<a title="U.S. Dept. of Health and Human Services. U.S. Dept. of Agriculture, #46" href="#ref29">29</a>)</p>
+<ul>
+<li>Ingredients are listed in descending order by weight (<a title="U.S. Food and Drug Administration, #47" href="#ref30">30</a>), so where sugar is listed in relation to other ingredients can indicate how much sugar a particular food contains.</li>
+<li>Added sugars go by many different names, yet they are all a source of extra calories.</li>
+</ul>
+<p>Food makers can also use sweeteners that aren’t technically sugar—a term which is applied only to table sugar, or sucrose—but these other sweeteners are in fact forms of added sugar. Below are some other names for sugar that you may see on food labels:</p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="139">Agave nectar</td>
+<td valign="top" width="172">Evaporated cane juice</td>
+<td valign="top" width="98">Malt syrup</td>
+</tr>
+<tr>
+<td valign="top" width="139">Brown sugar</td>
+<td valign="top" width="172">Fructose</td>
+<td valign="top" width="98">Maple syrup</td>
+</tr>
+<tr>
+<td valign="top" width="139">Cane crystals</td>
+<td valign="top" width="172">Fruit juice concentrates</td>
+<td valign="top" width="98">Molasses</td>
+</tr>
+<tr>
+<td valign="top" width="139">Cane sugar</td>
+<td valign="top" width="172">Glucose</td>
+<td valign="top" width="98">Raw sugar</td>
+</tr>
+<tr>
+<td valign="top" width="139">Corn sweetener</td>
+<td valign="top" width="172">High-fructose corn syrup</td>
+<td valign="top" width="98">Sucrose</td>
+</tr>
+<tr>
+<td valign="top" width="139">Corn syrup</td>
+<td valign="top" width="172">Honey</td>
+<td valign="top" width="98">Syrup</td>
+</tr>
+<tr>
+<td valign="top" width="139">Crystalline fructose</td>
+<td valign="top" width="172">Invert sugar</td>
+<td valign="top" width="98"></td>
+</tr>
+<tr>
+<td valign="top" width="139">Dextrose</td>
+<td valign="top" width="172">Maltose</td>
+<td valign="top" width="98"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><a name="ref27"></a></p>
+<h3>References</h3>
+<p><cite><a name="ref28"></a> 27. Johnson RK, Appel LJ, Brands M, et al. Dietary sugars intake and cardiovascular health: a scientific statement from the American Heart Association. <a title="Dietary sugars intake and cardiovascular health" href="http://www.ncbi.nlm.nih.gov/pubmed/19704096" target="_blank" rel="noopener"><i>Circulation</i></a>. 2009;120:1011-20.</cite></p>
+<p><cite><a name="ref29"></a> 28. Pan A, Hu FB. Effects of carbohydrates on satiety: differences between liquid and solid food. <a title="Effects of carbohydrates on satiety: differences between liquid and solid food" href="http://www.ncbi.nlm.nih.gov/pubmed/21519237" target="_blank" rel="noopener"><i>Curr Opin Clin Nutr Metab Care</i></a>. 2011;14:385-90.</cite></p>
+<p><cite><a name="ref30"></a> 29. U.S. Dept. of Health and Human Services. U.S. Dept. of Agriculture. Dietary Guidelines for Americans. 2005. Chapter 7:Carbohydrates. Accessed on April 5, 2009.</cite></p>
+<p><em><cite>30. U.S. Food and Drug Administration. 2008. A Food Labeling Guide: Chapter 4:Ingredient Lists. Accessed April 10, 2009.</cite></em></p>
+<p><em>31. Malik VS, Hu FB. Fructose and Cardiometabolic Health: What the Evidence From Sugar-Sweetened Beverages Tells Us. J Am Coll Cardiol. 2015 Oct 6;66(14):1615-24</em></p>
+<h3 style="font-size: 1em;">Terms of Use</h3><p style="font-size: 0.75em; line-height: 19px; font-style: italic;">The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.</p><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/" data-text="Added Sugar in the Diet"  >Tweet</a></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/" data-counter="right"></script></div></li><li class="share-reddit"><div class="reddit_button"><iframe src="https://www.reddit.com/static/button/button1.html?newwindow=true&width=120&amp;url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnutritionsource%2Fcarbohydrates%2Fadded-sugar-in-the-diet%2F&amp;title=Added%20Sugar%20in%20the%20Diet" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button" href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button" href="https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>	</div><!-- .entry-content -->
+	<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	</main><!-- .site-main -->
+
+	
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="text-145" class="widget widget_text">			<div class="textwidget"><p><a href="https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/"><img class="wp-image-16667 size-medium alignnone" src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2020/03/HEPIcon-300x300.png" alt="Healthy Eating Plate" width="300" height="300" /></a>Create healthy, balanced meals <a href="https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/" target="_blank" rel="noopener noreferrer">using this visual guide as a blueprint</a>.</p>
+</div>
+		</section><section id="text-144" class="widget widget_text">			<div class="textwidget"><p><a href="https://pub.s6.exacttarget.com/3dtywtxideq" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-15637 size-medium" src="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2019/03/Screen-Shot-2019-03-06-at-11.11.06-AM-300x63.png" alt="" width="300" height="63" /></a></p>
+<p>A monthly update filled with nutrition news and tips from Harvard experts—all designed to help you eat healthier. <a href="https://pub.s6.exacttarget.com/3dtywtxideq" target="_blank" rel="noopener noreferrer">Sign up here</a>.</p>
+</div>
+		</section>	</aside><!-- .sidebar .widget-area -->
+
+</div><!-- .content-area -->
+
+
+		</div><!-- .site-content -->
+		<section id="twitter-footer" class="twitter-footer">
+		<h3 class="twitter-feed-title">
+			<a href="https://twitter.com/HSPHnutrition">The Nutrition Source on Twitter</a>			</h3>
+			<div id="twitter-carousel-container"><div class="flexslider">	<ul class="slides"><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardChanSPH">@HarvardChanSPH</a>: Consistently getting 7 to 8 hours of sleep may reduce the risk of developing type 2 diabetes <a target="_blank" href="https://t.co/cdyNvXT39H">https://t.co/cdyNvXT39H</a> ht…		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardChanSPH">@HarvardChanSPH</a>: Please join the <a target="_blank" href="http://www.twitter.com/CCDD_HSPH">@CCDD_HSPH</a> on Monday, 4/13 from 11AM-1PM EDT for a series of discussions on the current #COVID19 pandem…		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardChanSPH">@HarvardChanSPH</a>: Is there a role for nutritional supplements in the COVID19 pandemic? <a target="_blank" href="https://t.co/HcuWMuzgfo">https://t.co/HcuWMuzgfo</a>		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardChanSPH">@HarvardChanSPH</a>: While there is no published evidence of contracting #COVID19 from touching food or food packaging that came in contact…		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/EdMarkey">@EdMarkey</a>: How can we be safe at the grocery store? Is it safe to get meals delivered? What steps should we all be taking to protect our…		</div>	</div></li>	</ul></div><div id="twitter-slide-controls"></div></div>		</section>
+				<footer id="colophon" class="site-footer" role="contentinfo">
+							<div id="footer-audience-menu" class="footer-audience-menu">
+					<span class="footer-information-for">Information For:</span>
+					<nav id="footer-audience-navigation" class="footer-audience-navigation" role="navigation" aria-label="Audience Menu">
+						<div class="menu-audience-menu-2016-container"><ul id="menu-audience-menu-2016" class="hsph-audience-menu"><li id="menu-item-111354113411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113411"><a href="/admissions">Prospective Students</a></li>
+<li id="menu-item-111354113412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113412"><a href="/current-students/">Current Students</a></li>
+<li id="menu-item-111354113413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113413"><a href="http://alumni.sph.harvard.edu">Alumni</a></li>
+<li id="menu-item-111354113414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113414"><a href="/faculty-staff">Faculty &#038; Staff</a></li>
+<li id="menu-item-111354113415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113415"><a href="/giving">Friends &#038; Supporters</a></li>
+</ul></div>					</nav><!-- .footer-audience-navigation -->
+				</div><!-- .footer-audience-menu -->
+										<div id="footer-primary-menu" class="footer-primary-menu">
+					<nav id="footer-primary-navigation" class="footer-primary-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="hsph-footer-primary-menu"><li id="menu-item-111354113445" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113445"><a href="https://www.hsph.harvard.edu/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113446"><a href="https://www.hsph.harvard.edu/about/key-facts/">Key Facts</a></li>
+	<li id="menu-item-111354113447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113447"><a href="https://www.hsph.harvard.edu/harvard-chan-naming-gift/">Renaming the School</a></li>
+	<li id="menu-item-111354113448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113448"><a href="https://www.hsph.harvard.edu/deans-office/">Office of the Dean</a></li>
+	<li id="menu-item-111354113449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113449"><a href="https://www.hsph.harvard.edu/about/location-and-directions/">Location and Facilities</a></li>
+	<li id="menu-item-111354113450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113450"><a href="https://www.hsph.harvard.edu/about/contact-us/administrative-offices/">Administrative Offices</a></li>
+	<li id="menu-item-111354113451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113451"><a href="https://www.hsph.harvard.edu/about/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113452"><a href="https://www.hsph.harvard.edu/faculty-research/">Faculty and Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113453"><a href="https://www.hsph.harvard.edu/faculty/">Faculty and Researcher Directory</a></li>
+	<li id="menu-item-111354113454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113454"><a href="https://www.hsph.harvard.edu/departments/">Academic Departments, Divisions and Centers</a></li>
+	<li id="menu-item-111354113455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113455"><a href="https://www.hsph.harvard.edu/world-map/">International Research</a></li>
+	<li id="menu-item-111354113456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113456"><a href="https://www.hsph.harvard.edu/faculty-affairs/postdoctoral-research-fellows/">Postdoctoral Research Fellows</a></li>
+	<li id="menu-item-111354113457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113457"><a href="https://www.hsph.harvard.edu/faculty-affairs/">Office of Faculty Affairs</a></li>
+	<li id="menu-item-111354113458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113458"><a href="https://www.hsph.harvard.edu/searches/">Faculty Searches</a></li>
+	<li id="menu-item-111354113459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113459"><a href="https://www.hsph.harvard.edu/diversity/">Office of Diversity and Inclusion</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113460"><a href="https://www.hsph.harvard.edu/admissions/">Admissions &#038; Aid</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113461"><a href="https://www.hsph.harvard.edu/admissions/why-harvard-chan/">Why Harvard Chan</a></li>
+	<li id="menu-item-111354113462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113462"><a href="https://www.hsph.harvard.edu/admissions/degree-programs/">Degree Programs</a></li>
+	<li id="menu-item-111354113463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113463"><a href="https://www.hsph.harvard.edu/admissions/non-degree-programs/">Non-Degree Programs</a></li>
+	<li id="menu-item-111354113464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113464"><a href="https://www.hsph.harvard.edu/admissions/financial-aid/">Financial Aid</a></li>
+	<li id="menu-item-111354113465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113465"><a href="https://www.hsph.harvard.edu/admissions/student-experience/">Student Experience</a></li>
+	<li id="menu-item-111354113466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113466"><a href="https://www.hsph.harvard.edu/admissions/careers/">Career Advancement</a></li>
+	<li id="menu-item-111354113467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113467"><a href="https://www.hsph.harvard.edu/admissions/admissions/">Apply</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113468"><a href="https://www.hsph.harvard.edu/departments/">Academics</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113469"><a href="https://www.hsph.harvard.edu/departments/#academicdepartments">Academic Departments</a></li>
+	<li id="menu-item-111354113482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113482"><a href="https://www.hsph.harvard.edu/departments/#divisions">Divisions</a></li>
+	<li id="menu-item-111354113470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113470"><a href="https://www.hsph.harvard.edu/departments/#researchcenters">Research Centers</a></li>
+	<li id="menu-item-111354113472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113472"><a href="https://www.hsph.harvard.edu/departments/#flagshipinitiatives">Flagship Initiatives</a></li>
+	<li id="menu-item-111354113473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113473"><a href="https://www.hsph.harvard.edu/departments/#internationalresearch">International Research</a></li>
+	<li id="menu-item-111354113475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113475"><a href="https://www.hsph.harvard.edu/departments/#researchadministration">Research Administration and Support</a></li>
+	<li id="menu-item-111354113474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113474"><a href="https://www.hsph.harvard.edu/departments/#degreeprograms">Degree Programs</a></li>
+	<li id="menu-item-111354113476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113476"><a href="https://www.hsph.harvard.edu/departments/#fellowships">Fellowships and Residencies</a></li>
+	<li id="menu-item-111354113477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113477"><a href="https://www.hsph.harvard.edu/departments/#summerprograms">Summer Programs</a></li>
+	<li id="menu-item-111354113478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113478"><a href="https://ecpe.sph.harvard.edu/">Continuing Professional Education</a></li>
+	<li id="menu-item-111354113615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113615"><a href="https://www.hsph.harvard.edu/admissions/degree-programs/interdisciplinary-concentrations/">Interdisciplinary Concentrations</a></li>
+	<li id="menu-item-111354113616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113616"><a href="https://www.hsph.harvard.edu/registrar/academic-calendar/">Academic Calendar</a></li>
+	<li id="menu-item-111354113617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113617"><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1904/2015/12/Harvard-Chan-Viewbook-2015-162.pdf">Harvard Chan Viewbook</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113479"><a href="/ecpe/">Executive/Continuing Ed</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113483"><a href="https://ecpe.sph.harvard.edu/finder.cfm?loc=l">Program Offerings</a></li>
+	<li id="menu-item-111354113484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113484"><a href="https://ecpe.sph.harvard.edu/programs.cfm?CSID=CP0000&#038;pg=cluster&#038;CLID=1&#038;loc=l&#038;loc=l">Custom Programs</a></li>
+	<li id="menu-item-111354113485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113485"><a href="http://execed.sph.harvard.edu/executive-education-program-portfolio?loc=l">Request Information</a></li>
+	<li id="menu-item-111354113486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113486"><a href="https://ecpe.sph.harvard.edu/news.cfm?loc=l">News and Resources</a></li>
+	<li id="menu-item-111354113487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113487"><a href="https://ecpe.sph.harvard.edu/about.cfm">About ECPE</a></li>
+	<li id="menu-item-111354113488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113488"><a href="https://ecpe.sph.harvard.edu/contact.cfm?loc=l">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113480"><a href="https://www.hsph.harvard.edu/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-111354113493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113493"><a href="https://www.hsph.harvard.edu/news/features/">Featured News</a></li>
+	<li id="menu-item-111354113494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113494"><a href="https://www.hsph.harvard.edu/news/press-releases/">Press Releases</a></li>
+	<li id="menu-item-111354113495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113495"><a href="https://www.hsph.harvard.edu/news/topic/student-stories/">Student Stories</a></li>
+	<li id="menu-item-111354113496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113496"><a href="https://www.hsph.harvard.edu/news/hsph-in-the-news/">In the News</a></li>
+	<li id="menu-item-111354113497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113497"><a href="https://www.hsph.harvard.edu/news/newsletters/">Newsletters</a></li>
+	<li id="menu-item-111354113498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113498"><a href="https://www.hsph.harvard.edu/news/magazine/">HPH Magazine</a></li>
+	<li id="menu-item-111354113500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113500"><a href="https://www.hsph.harvard.edu/news/why-public-health/">Why Public Health?</a></li>
+</ul>
+</li>
+</ul></div>					</nav><!-- .footer-primary-menu -->
+				</div><!-- .footer-primary-navigation -->
+			
+			<div class="site-info">
+				<div class="site-footer-logo"><a href="https://www.hsph.harvard.edu/" rel="home">Harvard T.H. Chan School of Public Health</a></div>
+				<address class="vcard">
+					<div class="adr">
+						<span class="street-address">677 Huntington Avenue</span>
+						<span class="locality">Boston</span>,
+						<abbr class="region" title="Massachusetts">MA</abbr>
+						<span class="postal-code">02115</span>
+					</div>
+					<div class="tel">+1 (617) 495‑1000</div>
+				</address>
+			</div><!-- .site-info -->
+							<div id="footer-social-menu" class="footer-social-menu">
+					<nav id="footer-social-navigation" class="footer-social-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-footer-social-container"><ul id="menu-footer-social" class="social-navigation"><li id="menu-item-111354108407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108407"><a title="Twitter" target="_blank" rel="noopener noreferrer" href="http://twitter.com/HarvardChanSPH">Twitter</a></li>
+<li id="menu-item-111354108408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108408"><a title="Facebook" target="_blank" rel="noopener noreferrer" href="http://www.facebook.com/harvardpublichealth">Facebook</a></li>
+<li id="menu-item-111354108409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108409"><a title="YouTube" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/HarvardPublicHealth">YouTube</a></li>
+<li id="menu-item-111354108411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108411"><a title="LinkedIn" target="_blank" rel="noopener noreferrer" href="http://www.linkedin.com/edu/school?id=20305&#038;trk=tyah">LinkedIn</a></li>
+<li id="menu-item-111354113570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113570"><a href="https://www.instagram.com/harvardchansph/">Instagram</a></li>
+<li id="menu-item-111354108412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108412"><a title="iTunes U" target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/harvard-public-health/id1079574471">iTunes</a></li>
+</ul></div>					</nav><!-- .footer-social-navigation -->
+				</div><!-- .footer-social-menu -->
+										<div id="footer-footer-menu" class="footer-footer-menu">
+					<nav id="footer-navigation" class="footer-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-sub-footer-menu-container"><ul id="menu-sub-footer-menu" class="hsph-footer-menu"><li id="menu-item-1020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-359 current_page_item menu-item-1020"><a href="https://www.hsph.harvard.edu/" aria-current="page">Harvard Chan Home</a></li>
+<li id="menu-item-111354105449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111354105449"><a href="https://www.hsph.harvard.edu/contact-us/">Contact Us</a></li>
+<li id="menu-item-111354105212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354105212"><a href="http://www.harvard.edu">Harvard University Home</a></li>
+<li id="menu-item-1021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1021"><a href="https://www.hsph.harvard.edu/giving">Make a Gift</a></li>
+<li id="menu-item-111354108039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111354108039"><a href="https://www.hsph.harvard.edu/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-111354105198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354105198"><a href="http://www.harvard.edu/copyright-issue">Report Copyright Violation</a></li>
+<li id="menu-item-111354119821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354119821"><a title="Online Accessibility at Harvard University" href="https://accessibility.huit.harvard.edu">Accessibility</a></li>
+</ul></div>					</nav><!-- .footer-navigation -->
+				</div><!-- .footer-footer-menu -->
+							<div id="copyright" class="copyright">
+					Copyright &copy; 2020 The President and Fellows of Harvard College				</div><!-- .footer-footer-menu -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site -->
+</div><!-- .wrapper -->
+<div class="menu-mask"></div>
+
+			<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XL6K"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<!-- End Google Tag Manager (noscript) -->
+			
+		<script>
+			// Slide controls for the sub brand carousel template
+			jQuery(document).ready(function($) {
+				if ( $('#sidebar-carousel-widget .flexslider').length && $().flexslider ) {
+					$('#sidebar-carousel-widget .flexslider').flexslider({
+						animation: 'fade',
+						prevText: ' ',
+						nextText: ' ',
+						controlsContainer: '#hsph-carousel-widget-controls',
+					});
+				}
+			});
+		</script>
+		
+		<script>
+			// Slide controls for the sub brand carousel template
+			jQuery(document).ready(function($) {
+				if ( $('#news-sidebar-carousel-widget .flexslider').length && $().flexslider ) {
+					$('#news-sidebar-carousel-widget .flexslider').flexslider({
+						animation: 'fade',
+						prevText: ' ',
+						nextText: ' ',
+						controlsContainer: '#hsph-news-carousel-widget-controls',
+					});
+				}
+			});
+		</script>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.hsph.harvard.edu\/nutritionsource\/carbohydrates\/added-sugar-in-the-diet\/":6397};
+	</script>
+		<script type="text/javascript">
+		var windowOpen;
+		jQuery(document.body).on('click', 'a.share-facebook', function() {
+			if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+				windowOpen.close();
+			}
+			windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+			return false;
+		});
+		</script>
+		<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			<script type="text/javascript">
+			jQuery( document ).ready( function() {
+			    jQuery.getScript( 'https://platform.linkedin.com/in.js?async=true', function success() {
+			        IN.init();
+			    });
+			});
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( typeof IN != 'undefined' )
+					IN.parse();
+			});
+			</script>	<div id="sharing_email" style="display: none;">
+		<form action="/nutritionsource/carbohydrates/added-sugar-in-the-diet/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-sharing-buttons/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<!-- `jetpack-carousel` is included in the concatenated jetpack.css -->
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-tagging/assets/js/hsph-plugin-tagging.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-tinymce-tweaks//assets/js/jquery.tablesorter.min.js?ver=2.31.1'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-tinymce-tweaks//assets/js/hsph-table-sortable.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/js/jquery.flexslider-min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016-child-alternate-landing/assets/js/alternate-front.js?ver=3.0'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/js/skip-link-focus-fix.js?ver=1.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016/assets/js/functions.js?ver=1.3.3'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.hsph.harvard.edu\/nutritionsource\/wp-admin\/admin-ajax.php","nonce":"2743b82db1","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/www.hsph.harvard.edu\/nutritionsource\/wp-login.php?redirect_to=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnutritionsource%2Fcarbohydrates%2Fadded-sugar-in-the-diet%2F","blog_id":"30","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-sharing-buttons/sharing.js?ver=8.3'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202015.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'45363862',post:'6397',tz:'-4',srv:'www.hsph.harvard.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '45363862', '6397' ]);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-26d49e9cd1d82010791","applicationID":"529647296","transactionName":"YlBRN0pRWBUDBU1dWFsacgBMWVkITRZYU1I=","queueTime":0,"applicationTime":785,"atts":"ThdSQQJLSxs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
